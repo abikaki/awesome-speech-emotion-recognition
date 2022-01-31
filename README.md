@@ -12,7 +12,9 @@
 ## What's New
 
 ## Datasets
-
+|Database| Language | Size | Type | Emotions | Modalities |
+| ------ | -------- | ---- | ---- | -------- | ---------- |
+| [Surrey Audio-Visual Expressed Emotion (SAVEE)](http://kahlan.eps.surrey.ac.uk/savee/) | English | 4 male speakers x 480 utterances | Acted | Anger, disgust, fear, happiness, sadness, surprise,neutral | Audio/Visual |
 ## Software
 
 ## Journals
