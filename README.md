@@ -3,6 +3,7 @@
 ## Topics
 
 * [What's New](#WhatsNew)
+* [Reviews](#Reviews)
 * [Datasets](#Datasets)
 * [Software](#Software)
 * [Journals](#Journals)
@@ -10,6 +11,11 @@
 * [Other Awesome-related Material](#OtherAwesome)
 
 ## What's New
+
+## Reviews
+|Year| Database | Title | Topics |
+| -- | -------- | ----- | ------ |
+| 2021 | IEEE Access | [A Comprehensive Review of Speech Emotion Recognition Systems](https://doi.org/10.1109/ACCESS.2021.3068045) | SER systems' varied design components/methodologies, datasets |
 
 ## Datasets
 |Database| Language | Size | Type | Emotions | Modalities | Resolution |
