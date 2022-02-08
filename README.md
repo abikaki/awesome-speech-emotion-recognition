@@ -25,6 +25,7 @@
 | [Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://smartlaboratory.org/ravdess/) | English | A database of emotional speech and song of 12 males and 12 females | Acted | Anger, calmness, happiness, sadness, fear, surprise, disgust | Audio/Visual | Audio: 48KHz - 16bit - .wav, Video: 720p - .mp4 | 
 | [MELD: Multimodal EmotionLines Dataset](https://affective-meld.github.io/) | English | More than 13000 utterances from multiple speakers | Natural | Joy, sadness, fear, anger, surprise, disgust, neutral, non-neutral | Audio/Visual/Text | Audio: 16bit PCM - .wav |
 | [Berlin Database of Emotional Speech (Emo-DB)](http://emodb.bilderbar.info/docu/) | German | 5 male and 5 female speakers, with more than 500 utterances | Acted | Anger, disgust, anxiety/fear, boredom, happiness, sadness, neutral | Audio | Audio: 48KHz, downsampled to 16KHz - .wav |
+| [SEMAINE](https://semaine-db.eu/) | English | 95 sessions of human-agent interactions | Natural | 4D Emotional space | Audio/Visual/Text | N/A | 
 
 ## Software
 
