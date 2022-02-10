@@ -16,6 +16,7 @@
 |Year| Database | Title | Topics |
 | -- | -------- | ----- | ------ |
 | 2021 | IEEE Access | [A Comprehensive Review of Speech Emotion Recognition Systems](https://doi.org/10.1109/ACCESS.2021.3068045) | SER systems' varied design components/methodologies, datasets |
+| 2021 | Electronics | [A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism](https://www.mdpi.com/2079-9292/10/10/1163) | Extensive comparison of Deep Learning architectures, mainly on the IEMOCAP benchmark database | 
 
 ## Datasets
 |Database| Language | Size | Type | Emotions | Modalities | Resolution |
