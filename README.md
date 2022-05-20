@@ -13,12 +13,13 @@
 ## What's New
 |Year| Database | Title | Topics |
 | -- | -------- | ----- | ------ |
-| 2022 | Speech Prosody 2022 | [Speech Emotion Recognition using Time-frequency Random Circular Shift and Deep Neural Networks](https://hal.archives-ouvertes.fr/hal-03583535) | <b>Data augmentation</b> based on circular shift of the input time-frequency representation |
+| 2022 | Speech Prosody 2022 | [Speech Emotion Recognition using Time-frequency Random Circular Shift and Deep Neural Networks](https://hal.archives-ouvertes.fr/hal-03583535) | <b>Data augmentation</b> based on circular shift of the input time-frequency representation | 
 
 
 ## Reviews
 |Year| Database | Title | Topics |
 | -- | -------- | ----- | ------ |
+| 2022 | Neural Computing and Applications | [Human emotion recognition from EEG-based brain–computer interface using machine learning: a comprehensive review](https://doi.org/10.1007/s00521-022-07292-4) | Human emotion recognition using EEG-based brain signals and machine learning | 
 | 2022 | Wireless Personal Communications | [Survey of Deep Learning Paradigms for Speech Processing](https://doi.org/10.1007/s11277-022-09640-y) | Machine learning techniques for speech processing | 
 | 2021 | IEEE Access | [A Comprehensive Review of Speech Emotion Recognition Systems](https://doi.org/10.1109/ACCESS.2021.3068045) | SER systems' varied design components/methodologies, databases |
 | 2021 | Electronics | [A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism](https://www.mdpi.com/2079-9292/10/10/1163) | Extensive comparison of Deep Learning architectures, mainly on the IEMOCAP benchmark database | 
