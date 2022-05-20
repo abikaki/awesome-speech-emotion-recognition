@@ -85,6 +85,7 @@
 
 ## Other Awesome-related Material
 
-* [SER Datasets](https://superkogito.github.io/SER-datasets/#)
-* [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
+* [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
+* [SER Datasets](https://superkogito.github.io/SER-datasets/#)
+* ✨❔
