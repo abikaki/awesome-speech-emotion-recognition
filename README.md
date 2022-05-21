@@ -11,9 +11,9 @@
 * [Other Awesome-related Material](#OtherAwesome)
 
 ## What's New
-|Year| Database | Title | Topics |
-| -- | -------- | ----- | ------ |
-| 2022 | Speech Prosody 2022 | [Speech Emotion Recognition using Time-frequency Random Circular Shift and Deep Neural Networks](https://hal.archives-ouvertes.fr/hal-03583535) | <b>Data augmentation</b> based on circular shift of the input time-frequency representation | 
+|Year| Month | Database | Title | Topics |
+| -- | ------| -------- | ----- | ------ |
+| 2022 | May | Speech Prosody 2022 | [Speech Emotion Recognition using Time-frequency Random Circular Shift and Deep Neural Networks](https://hal.archives-ouvertes.fr/hal-03583535) | <b>Data augmentation</b> based on circular shift of the input time-frequency representation | 
 
 
 ## Reviews
