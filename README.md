@@ -9,6 +9,7 @@
 * [Journals](#Journals)
 * [Conferences](#Conferences)
 * [Other Awesome-related Material](#OtherAwesome)
+* [Perspectives](#Perspectives)
 
 ## What's New
 |Year| Month | Database | Title | Topics |
@@ -89,3 +90,17 @@
 * [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
 * [SER Datasets](https://superkogito.github.io/SER-datasets/#)
 * ✨❔
+
+## Perspectives
+
+<table>
+  <tr>
+    <td width="30%">
+       A picture or picture(s) is or are worth a thousand words! A <a href="https://www.youtube.com/watch?v=t685WM5R6aM">1-min visual example</a> of how we communicate emotions, our perceptions, the role of subjectivity and what is effective listening.<br/><br/>Are emotions consistent?<br/><br/>What about the dynamics of the context to our decisions and emotional wellness?
+    </td>
+    <td width="70%">
+        <a href="https://www.youtube.com/watch?v=t685WM5R6aM"><img src="images/video.png"></a>
+    </td>
+  </tr>
+</table>
+
