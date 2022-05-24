@@ -82,7 +82,9 @@
 | Name | Year | Location | 
 | ---- | ---- | -------- |
 | [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2022.ieeeicassp.org/) | 2022 | Singapore | 
+| [International Conference on Pattern Recognition (ICPR)](https://www.icpr2022.com/) | 2022 | Montreal Quebec | 
 | [Interspeech (ISCA)](https://interspeech2022.org) | 2022 | Korea | 
+
 
 ## Other Awesome-related Material
 
