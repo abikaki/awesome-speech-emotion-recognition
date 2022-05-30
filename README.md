@@ -58,6 +58,7 @@
   * Audio Toolbox
 * Python Libraries
   * [Librosa](https://librosa.org/doc/latest/index.html) | A python package for music and audio analysis
+  * [SoundFile](https://python-soundfile.readthedocs.io/en/0.10.3post1/) | A python library for audio IO processing
   * [PyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis/wiki) | A python library that provides a wide range of audio-related functionalities focusing on feature extraction, classification, segmentation and visualization issues
   * [Pydub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface 
 
