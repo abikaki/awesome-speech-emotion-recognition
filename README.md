@@ -57,6 +57,7 @@
 
 * C++
   * [Essentia](https://github.com/MTG/essentia) | A C++ library for audio and music analysis, description and synthesis, including Python bindings
+  * [openSMILE](https://www.audeering.com/research/opensmile/) | An open-source toolkit for audio feature extraction and classification of speech and music signals, including a C API with Python and C# bindings 
 * MATLAB
   * Audio Toolbox
 * Python Libraries
