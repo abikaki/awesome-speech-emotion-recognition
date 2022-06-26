@@ -60,6 +60,7 @@
   * [openSMILE](https://www.audeering.com/research/opensmile/) | An open-source toolkit for audio feature extraction and classification of speech and music signals, including a C API with Python and C# bindings 
 * MATLAB
   * Audio Toolbox
+  * [Covarep - A Cooperative Voice Analysis Repository for Speech Technologies](https://github.com/covarep/covarep) 
 * Python Libraries
   * [Librosa](https://librosa.org/doc/latest/index.html) | A python package for music and audio analysis
   * [PyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis/wiki) | A python library that provides a wide range of audio-related functionalities focusing on feature extraction, classification, segmentation and visualization issues
