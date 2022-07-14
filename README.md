@@ -6,6 +6,7 @@
 * [Reviews](#Reviews)
 * [Databases](#Databases)
 * [Software](#Software)
+* [Embeddings](#Embeddings)
 * [Journals](#Journals)
 * [Conferences](#Conferences)
 * [Other Awesome-related Material](#OtherAwesome)
@@ -66,6 +67,12 @@
   * [PyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis/wiki) | A python library that provides a wide range of audio-related functionalities focusing on feature extraction, classification, segmentation and visualization issues
   * [Pydub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface 
   * [SoundFile](https://python-soundfile.readthedocs.io/en/0.10.3post1/) | A python library for audio IO processing
+
+## Embeddings
+* Audio
+  * [OpenL3](https://github.com/marl/openl3)
+  * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
+  * [Wav2Vec2](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
 
 ## Journals
 | Name | Impact Factor | Review Method | First-decision |
