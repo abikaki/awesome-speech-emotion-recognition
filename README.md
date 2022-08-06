@@ -104,6 +104,7 @@
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
 * [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
 * [SER Datasets](https://superkogito.github.io/SER-datasets/#)
+* [Project TaRSila](https://sites.google.com/view/tarsila-c4ai/) speech datasets for Brazilian Portuguese language
 * ✨❔
 
 ## Perspectives
