@@ -42,6 +42,7 @@
 
 |Database| Language | Size | Type | Emotions | Modalities | Resolution |
 | ------ | -------- | ---- | ---- | -------- | ---------- | ---------- |
+| [AffectNet](http://mohammadmahoor.com/affectnet/) | N/A | ~450.000 subjects | Natural |  Continuous valence/arousal values and categorical emotions: anger, contempt, disgust, fear, happiness, neutral, sadness, surprise | Visual | 425x425 |
 | [Belfast Naturalistic Database](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/2125652/IEEE+Transactions+on+Affective+Computing+2011+Sneddon.pdf) | Spanish | 127 multi-cultural speakers of 298 emotional clips | Natural |  Amusement, anger, disgust, fear, frustration, sadness, surprise | Audio/Visual | N/A |
 | [Berlin Database of Emotional Speech (Emo-DB)](http://emodb.bilderbar.info/docu/) | German | 5 male and 5 female speakers, with more than 500 utterances | Acted | Anger, boredom, disgust, fear/anxiety, happiness, neutral, sadness | Audio | Audio: 48KHz, downsampled to 16KHz - .wav |
 | [CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI)](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/) | English | 1000 gender balanced YouTube speakers, 23500 sentences | Natural | Sentiment: Negative, weakly negative, neutral, weakly positive, positive Emotions: Anger, disgust, fear, happiness, sadness, surprise  | Audio/Visual/Text | N/A | 
@@ -70,6 +71,7 @@
 
 ## Embeddings
 * Audio
+  * [DeepSpectrum](https://github.com/DeepSpectrum/DeepSpectrum)
   * [OpenL3](https://github.com/marl/openl3)
   * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
   * [Wav2Vec2](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
