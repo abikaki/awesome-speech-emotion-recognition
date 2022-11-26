@@ -40,6 +40,8 @@
 
 <br/>
 
+### Datasets for Emotion Recognition
+
 |Database| Language | Size | Type | Emotions | Modalities | Resolution |
 | ------ | -------- | ---- | ---- | -------- | ---------- | ---------- |
 | [AffectNet](http://mohammadmahoor.com/affectnet/) | N/A | ~450.000 subjects | Natural |  Continuous valence/arousal values and categorical emotions: anger, contempt, disgust, fear, happiness, neutral, sadness, surprise | Visual | 425x425 |
@@ -54,6 +56,11 @@
 | [Surrey Audio-Visual Expressed Emotion (SAVEE)](http://kahlan.eps.surrey.ac.uk/savee/) | English | 4 male speakers x 480 utterances | Acted | Anger, disgust, fear, happiness, neutral, sadness, surprise | Audio/Visual | Audio: 44KHz - Mono - 16bit - .wav, Video: 256p - 60fps - .avi | 
 | [SUSAS](https://catalog.ldc.upenn.edu/LDC99S78) | English | Speech under stress corpus with more than 16000 utterances from 32 speakers (13 females, 19 males) | Acted | Ten stress styles such as speaking style, single tracking task, and Lombard effect domain | Audio | 8KHz, 8bit PCM |
 
+### Datasets for Environmental Sound Classification
+
+|Database| Size | Type | Resolution |
+| ------ | ---- | ---- | ---------- |
+| [ESC-50](https://github.com/karolpiczak/ESC-50#repository-content) | 2000 | Environmental audio recordings | 44.1kHz, mono, 5sec long | 
 
 ## Software
 
