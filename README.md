@@ -15,7 +15,7 @@
 ## What's New
 |Year| Month | Database | Title | Topics |
 | -- | ------| -------- | ----- | ------ |
-| 2022 | May | Speech Prosody 2022 | [Speech Emotion Recognition using Time-frequency Random Circular Shift and Deep Neural Networks](https://hal.archives-ouvertes.fr/hal-03583535) | <b>Data augmentation</b> based on circular shift of the input time-frequency representation | 
+| 2023 | April | Neurocomputing | [An ongoing review of speech emotion recognition](https://www.sciencedirect.com/science/article/pii/S0925231223000103) | <b>A comprehensive review of most popular datasets, and current machine learning and neural networks models for SER | 
 
 
 ## Reviews
