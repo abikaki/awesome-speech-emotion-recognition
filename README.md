@@ -6,6 +6,7 @@
 * [Reviews](#Reviews)
 * [Databases](#Databases)
 * [Software](#Software)
+* [Tools](#Tools)
 * [Embeddings](#Embeddings)
 * [Journals](#Journals)
 * [Conferences](#Conferences)
@@ -81,6 +82,9 @@
   * [Pydub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface 
   * [SoundFile](https://python-soundfile.readthedocs.io/en/0.10.3post1/) | A python library for audio IO processing
 
+## Tools
+  * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) in solving AI tasks with speech, music, sound, and talking head understanding and generation in multi-round dialogues, which empower humans to create rich and diverse audio content with unprecedented ease ([paper](https://arxiv.org/abs/2304.12995))
+  
 ## Embeddings
 * Audio
   * [DeepSpectrum](https://github.com/DeepSpectrum/DeepSpectrum)
