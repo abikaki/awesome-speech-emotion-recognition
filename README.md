@@ -79,10 +79,12 @@
   * [Librosa](https://librosa.org/doc/latest/index.html) | A python package for music and audio analysis
   * [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) | A python utility library for analyzing bioacoustic data
   * [PyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis/wiki) | A python library that provides a wide range of audio-related functionalities focusing on feature extraction, classification, segmentation and visualization issues
-  * [Pydub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface 
+  * [Pydub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface
+  * [SpeechBrain](https://speechbrain.github.io/) | A PyTorch speech and all-in-one conversational AI toolkit
   * [SoundFile](https://python-soundfile.readthedocs.io/en/0.10.3post1/) | A python library for audio IO processing
 
 ## Tools
+  * [Audacity](https://www.audacityteam.org/) | Free, open source, cross-platform audio software
   * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) in solving AI tasks with speech, music, sound, and talking head understanding and generation in multi-round dialogues, which empower humans to create rich and diverse audio content with unprecedented ease ([paper](https://arxiv.org/abs/2304.12995))
   
 ## Embeddings
