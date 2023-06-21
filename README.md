@@ -10,6 +10,7 @@
 * [Embeddings](#Embeddings)
 * [Journals](#Journals)
 * [Conferences](#Conferences)
+* [Learning](#Learning)
 * [Other Awesome-related Material](#OtherAwesome)
 * [Perspectives](#Perspectives)
 
@@ -118,6 +119,10 @@
 | [International Conference on Pattern Recognition (ICPR)](https://www.icpr2022.com/) | 2022 | Montreal Quebec | 
 | [Interspeech (ISCA)](https://interspeech2022.org) | 2022 | Korea | 
 
+
+## Learning
+* [The Scientist and Engineer's Guide to Digital Signal Processing, Steven W. Smith](https://www.dspguide.com/pdfbook.htm)
+* Mastering Audio - The Art and the Science, Robert A. Katz
 
 ## Other Awesome-related Material
 
