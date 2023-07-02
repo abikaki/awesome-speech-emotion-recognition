@@ -2,17 +2,17 @@
 
 ## Topics
 
-* [What's New](#WhatsNew)
-* [Reviews](#Reviews)
-* [Databases](#Databases)
-* [Software](#Software)
-* [Tools](#Tools)
-* [Embeddings](#Embeddings)
-* [Journals](#Journals)
-* [Conferences](#Conferences)
-* [Learning](#Learning)
-* [Other Awesome Material](#OtherAwesomeMaterial)
-* [Perspectives](#Perspectives)
+* [What's New](#whats-new)
+* [Reviews](#reviews)
+* [Databases](#databases)
+* [Software](#software)
+* [Tools](#tools)
+* [Embeddings](#embeddings)
+* [Journals](#journals)
+* [Conferences](#conferences)
+* [Learning](#learning)
+* [Other Awesome Material](#other-awesome-material)
+* [Perspectives](#perspectives)
 
 ## What's New
 |Year| Month | Database | Title | Topics |
@@ -115,8 +115,8 @@
 
 
 ## Conferences
-| Name | Year | Location | More |
-| ---- | ---- | -------- | ---- |
+| Name | Year   | Location | More   |
+| ---- | ------ | -------- | ------ |
 | [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece | 
 | [International Conference on Pattern Recognition (ICPR)](https://www.icpr2022.com/) | 2022 | Montreal Quebec | 
 | [Interspeech (ISCA)](https://interspeech2023.org) | August 2023 | Ireland | [INTERSPEECH-2023-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)
