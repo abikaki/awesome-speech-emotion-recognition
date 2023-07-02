@@ -11,7 +11,7 @@
 * [Journals](#Journals)
 * [Conferences](#Conferences)
 * [Learning](#Learning)
-* [Other Awesome-related Material](#OtherAwesomerelatedMaterial)
+* [Other Awesome Material](#OtherAwesomeMaterial)
 * [Perspectives](#Perspectives)
 
 ## What's New
@@ -126,7 +126,7 @@
 * [The Scientist and Engineer's Guide to Digital Signal Processing, Steven W. Smith](https://www.dspguide.com/pdfbook.htm)
 * Mastering Audio - The Art and the Science, Robert A. Katz
 
-## Other Awesome-related Material
+## Other Awesome Material
 
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
 * [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
