@@ -11,7 +11,7 @@
 * [Journals](#Journals)
 * [Conferences](#Conferences)
 * [Learning](#Learning)
-* [Other Awesome-related Material](#OtherAwesome-relatedMaterial)
+* [Other Awesome-related Material](#OtherAwesomerelatedMaterial)
 * [Perspectives](#Perspectives)
 
 ## What's New
@@ -115,11 +115,11 @@
 
 
 ## Conferences
-| Name | Year | Location | 
-| ---- | ---- | -------- |
+| Name | Year | Location | More |
+| ---- | ---- | -------- | ---- |
 | [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece | 
 | [International Conference on Pattern Recognition (ICPR)](https://www.icpr2022.com/) | 2022 | Montreal Quebec | 
-| [Interspeech (ISCA)](https://interspeech2023.org) | August 2023 | Ireland | 
+| [Interspeech (ISCA)](https://interspeech2023.org) | August 2023 | Ireland | [INTERSPEECH-2023-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)
 
 
 ## Learning
@@ -129,7 +129,6 @@
 ## Other Awesome-related Material
 
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
-* [INTERSPEECH-2023-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)
 * [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
 * [SER Datasets](https://superkogito.github.io/SER-datasets/#)
 * [Music Emotion Recognition Datasets](https://github.com/juansgomez87/datasets_emotion)
