@@ -11,20 +11,22 @@
 * [Journals](#Journals)
 * [Conferences](#Conferences)
 * [Learning](#Learning)
-* [Other Awesome-related Material](#OtherAwesome)
+* [Other Awesome-related Material](#OtherAwesome-relatedMaterial)
 * [Perspectives](#Perspectives)
 
 ## What's New
 |Year| Month | Database | Title | Topics |
 | -- | ------| -------- | ----- | ------ |
 | 2023 | April | Neurocomputing | [An ongoing review of speech emotion recognition](https://www.sciencedirect.com/science/article/pii/S0925231223000103) | <b>A comprehensive review of most popular datasets, and current machine learning and neural networks models for SER | 
+| 2023 | March | Information Fusion | [Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions](https://doi.org/10.1016/j.inffus.2022.09.025) | A review on multimodal fusion architectures |
 
 
 ## Reviews
 |Year| Database | Title | Topics |
 | -- | -------- | ----- | ------ |
-| 2022 | Neural Computing and Applications | [Human emotion recognition from EEG-based brain–computer interface using machine learning: a comprehensive review](https://doi.org/10.1007/s00521-022-07292-4) | Human emotion recognition using EEG-based brain signals and machine learning | 
+| 2022 | Neural Computing and Applications | [Human emotion recognition from EEG-based brain-computer interface using machine learning: a comprehensive review](https://doi.org/10.1007/s00521-022-07292-4) | Human emotion recognition using EEG-based brain signals and machine learning | 
 | 2022 | Wireless Personal Communications | [Survey of Deep Learning Paradigms for Speech Processing](https://doi.org/10.1007/s11277-022-09640-y) | Machine learning techniques for speech processing | 
+| 2022 | Electronics | [Bringing Emotion Recognition Out of the Lab into Real Life: Recent Advances in Sensors and Machine Learning](https://www.mdpi.com/2079-9292/11/3/496) | This work reviews progress in sensors and machine learning methods and techniques |
 | 2021 | IEEE Access | [A Comprehensive Review of Speech Emotion Recognition Systems](https://doi.org/10.1109/ACCESS.2021.3068045) | SER systems' varied design components/methodologies, databases |
 | 2021 | Electronics | [A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism](https://www.mdpi.com/2079-9292/10/10/1163) | Extensive comparison of Deep Learning architectures, mainly on the IEMOCAP benchmark database | 
 | 2021 | Digital Signal Processing | [A survey of speech emotion recognition in natural environment](https://doi.org/10.1016/j.dsp.2020.102951) | A comprehensive survey of SER in the natural environment, various issues of SER in the natural environment, databases, feature extraction, and models |
@@ -115,9 +117,9 @@
 ## Conferences
 | Name | Year | Location | 
 | ---- | ---- | -------- |
-| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2022.ieeeicassp.org/) | 2022 | Singapore | 
+| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece | 
 | [International Conference on Pattern Recognition (ICPR)](https://www.icpr2022.com/) | 2022 | Montreal Quebec | 
-| [Interspeech (ISCA)](https://interspeech2022.org) | 2022 | Korea | 
+| [Interspeech (ISCA)](https://interspeech2023.org) | August 2023 | Ireland | 
 
 
 ## Learning
@@ -127,6 +129,7 @@
 ## Other Awesome-related Material
 
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
+* [INTERSPEECH-2023-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)
 * [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
 * [SER Datasets](https://superkogito.github.io/SER-datasets/#)
 * [Music Emotion Recognition Datasets](https://github.com/juansgomez87/datasets_emotion)
