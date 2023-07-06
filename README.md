@@ -93,7 +93,9 @@
 ## Embeddings
 * Audio
   * [DeepSpectrum](https://github.com/DeepSpectrum/DeepSpectrum)
+  * [ECAPA-TDNN](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb)
   * [OpenL3](https://github.com/marl/openl3)
+  * [Resemblyzer](https://github.com/resemble-ai/Resemblyzer)
   * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
   * [Wav2Vec2](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
 
