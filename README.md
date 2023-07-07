@@ -1,4 +1,7 @@
-# Awesome Speech Emotion Recognition [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition/graphs/commit-activity)
+# Awesome Speech Emotion Recognition 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition/graphs/commit-activity)
+![GitHub last commit](https://img.shields.io/github/last-commit/abikaki/awesome-speech-emotion-recognition)
 
 ## Topics
 
@@ -133,7 +136,9 @@
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
 * [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
 * [SER Datasets](https://superkogito.github.io/SER-datasets/#)
+* [Voice Datasets](https://github.com/jim-schwoebel/voice_datasets)
 * [Music Emotion Recognition Datasets](https://github.com/juansgomez87/datasets_emotion)
+* [A curated list of facial expression recognition in both 7-emotion classification and affect estimation - Awesome-SOTA-FER](https://github.com/kdhht2334/awesome-SOTA-FER)
 * [Project TaRSila](https://sites.google.com/view/tarsila-c4ai/) speech datasets for Brazilian Portuguese language
 * ✨❔
 
