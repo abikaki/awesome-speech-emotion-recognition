@@ -39,13 +39,16 @@
 ## Databases
 
 <p>
-  <span>Russell's circumplex model. In the model, emotions are distributed in a two-dimensional plane. The x-axis represents valence and the y-axis represents arousal. Valence refers to the positive and negative degree of emotion and arousal refers to the intensity of emotion. Most categorical emotions used in SER databases are based to this model</span> <br/>
+  <span> Russell's circumplex model of affect [1] is a model of human emotion that posits that all emotions can be represented as points on a two-dimensional space, with one dimension representing valence (pleasantness vs. unpleasantness) and the other dimension representing arousal (activation vs. deactivation). Valence refers to the positive and negative degree of emotion and arousal refers to the intensity of emotion. Most categorical emotions used in SER databases are based on this model</span> <br/><br/>
   
-<img src='https://user-images.githubusercontent.com/87717559/168854583-56c98ed1-6c51-4551-b9e2-0b2bd1b811a3.png' alt="Russell's circumplex model" width=300 height=300/>
+<img src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep04998/MediaObjects/41598_2014_Article_BFsrep04998_Fig1_HTML.jpg?as=webp' alt="A graphical representation of the circumplex model of affect with the horizontal axis representing the valence or pleasant dimension and the vertical axis representing the arousal or activation dimension" width=450 height=300/>
+<!--<img src='https://user-images.githubusercontent.com/87717559/168854583-56c98ed1-6c51-4551-b9e2-0b2bd1b811a3.png' alt="Russell's circumplex model" width=300 height=300/>-->
 
 </p>
-
-<br/>
+A graphical representation of the circumplex model of affect with the horizontal axis representing the valence or pleasant dimension and the vertical axis representing the arousal or activation dimension [2].
+<br/><br/>
+[1] Russell, J. A. (1980). A circumplex model of affect. Journal of Personality and Social Psychology, 39(6), 1161–1178. https://doi.org/10.1037/h0077714 <br/>
+[2] Valenza, G., Citi, L., Lanatá, A. et al. Revealing Real-Time Emotional Responses: a Personalized Assessment based on Heartbeat Dynamics. Sci Rep 4, 4998 (2014). https://doi.org/10.1038/srep04998 <br/>
 
 ### Datasets for Emotion Recognition
 
@@ -120,25 +123,27 @@
 
 
 ## Conferences
-| Name | Year   | Location | More   |
-| ---- | ------ | -------- | ------ |
-| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece | 
-| [International Conference on Pattern Recognition (ICPR)](https://www.icpr2022.com/) | 2022 | Montreal Quebec | 
+| Name | Year   | Location | More     |
+| ---- | ------ |:--------:|:---------:|
+| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece |  :heavy_minus_sign: |
+| [International Conference on Pattern Recognition (ICPR)](https://www.icpr2022.com/) | 2022 | Montreal Quebec |  :heavy_minus_sign: |
 | [Interspeech (ISCA)](https://interspeech2023.org) | August 2023 | Ireland | [INTERSPEECH-2023-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)
 
 
 ## Learning
-* [The Scientist and Engineer's Guide to Digital Signal Processing, Steven W. Smith](https://www.dspguide.com/pdfbook.htm)
+* [Introduction to Speech Processing, 2nd Edition, Aalto University](https://speechprocessingbook.aalto.fi/)
 * Mastering Audio - The Art and the Science, Robert A. Katz
+* [The Scientist and Engineer's Guide to Digital Signal Processing, Steven W. Smith](https://www.dspguide.com/pdfbook.htm)
+  
 
 ## Other Awesome Material
 
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
-* [A curated list of facial expression recognition in both 7-emotion classification and affect estimation - Awesome-SOTA-FER](https://github.com/kdhht2334/awesome-SOTA-FER)
+* [Awesome-SOTA-FER](https://github.com/kdhht2334/awesome-SOTA-FER) a curated list of facial expression recognition in both 7-emotion classification and affect estimation
 * [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
+* [Music Emotion Recognition Datasets](https://github.com/juansgomez87/datasets_emotion)
 * [SER Datasets](https://superkogito.github.io/SER-datasets/#)
 * [Voice Datasets](https://github.com/jim-schwoebel/voice_datasets)
-* [Music Emotion Recognition Datasets](https://github.com/juansgomez87/datasets_emotion)
 * [Project TaRSila](https://sites.google.com/view/tarsila-c4ai/) speech datasets for Brazilian Portuguese language
 * ✨❔
 
