@@ -95,6 +95,8 @@ A graphical representation of the circumplex model of affect with the horizontal
 ## Tools
   * [Audacity](https://www.audacityteam.org/) | Free, open source, cross-platform audio software
   * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) in solving AI tasks with speech, music, sound, and talking head understanding and generation in multi-round dialogues, which empower humans to create rich and diverse audio content with unprecedented ease ([paper](https://arxiv.org/abs/2304.12995))
+  * [S3PRL](https://s3prl.github.io/s3prl/) a toolkit targeting for Self-Supervised Learning for speech processing. It supports three major features: i) Pre-training, ii) Pre-trained models (Upstream) collection, and iii) Downstream Evaluation
+
   
 ## Embeddings
 * Audio
