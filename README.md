@@ -135,6 +135,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 ## Learning
 * [Introduction to Speech Processing, 2nd Edition, Aalto University](https://speechprocessingbook.aalto.fi/)
 * Mastering Audio - The Art and the Science, Robert A. Katz
+* [Spectral Audio Signal Processing, Julius O. Smith III](https://ccrma.stanford.edu/~jos/sasp/)
 * [The Scientist and Engineer's Guide to Digital Signal Processing, Steven W. Smith](https://www.dspguide.com/pdfbook.htm)
   
 
