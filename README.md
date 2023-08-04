@@ -127,6 +127,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 ## Conferences
 | Name | Year   | Location | More     |
 | ---- | ------ |:--------:|:---------:|
+| [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/) | 2023 | Vancouver Canada | [CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers) |
 | [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece |  [ICASSP-2023-Papers](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
 | [International Conference on Pattern Recognition (ICPR)](https://www.icpr2022.com/) | 2022 | Montreal Quebec |  :heavy_minus_sign: |
 | [Interspeech (ISCA)](https://interspeech2023.org) | August 2023 | Ireland | [INTERSPEECH-2023-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) | 
