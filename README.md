@@ -2,6 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition/graphs/commit-activity)
 ![GitHub last commit](https://img.shields.io/github/last-commit/abikaki/awesome-speech-emotion-recognition)
+<!--[![Count of Action Users](https://badgen.net/github/dependents-repo/abikaki/awesome-speech-emotion-recognition?icon=github&label=used%20by)](https://github.com/abikaki/awesome-speech-emotion-recognition/network/dependents)-->
 
 ## Topics
 
@@ -74,6 +75,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 |Database| Size | Type | Resolution |
 | ------ | ---- | ---- | ---------- |
+| [AudioSet](https://research.google.com/audioset/) | 2017 |2.1 million sound-clips from YouTube videos | 632 audio event classes, 10sec long |
 | [ESC-50](https://github.com/karolpiczak/ESC-50#repository-content) | 2000 | Environmental audio recordings | 44.1kHz, mono, 5sec long | 
 
 ## Software
