@@ -59,8 +59,8 @@ A graphical representation of the circumplex model of affect with the horizontal
 <div style="width:100%">
 
   
-| Database | Language | Size | Type | Emotions | Modalities | Resolution   |
-| -------- | -------- | ---- | ---- | -------- | :--------: | :----------: |
+| Dataset | Lang | Size | Type | Emotions | Modalities | Resolution |
+| ------- | ----- | ---- | :--: | ------- | ----- | :------: |
 | [AffectNet](http://mohammadmahoor.com/affectnet/) | N/A | ~450.000 subjects | Natural |  Continuous valence/arousal values and categorical emotions: anger, contempt, disgust, fear, happiness, neutral, sadness, surprise | Visual | 425x425 |
 | [Belfast Naturalistic Database](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/2125652/IEEE+Transactions+on+Affective+Computing+2011+Sneddon.pdf) | Spanish | 127 multi-cultural speakers of 298 emotional clips | Natural |  Amusement, anger, disgust, fear, frustration, sadness, surprise | Audio/Visual | N/A |
 | [Berlin Database of Emotional Speech (Emo-DB)](http://emodb.bilderbar.info/docu/) | German | 5 male and 5 female speakers, with more than 500 utterances | Acted | Anger, boredom, disgust, fear/anxiety, happiness, neutral, sadness | Audio | Audio: 48kHz, downsampled to 16kHz <br/> Formats:.wav |
