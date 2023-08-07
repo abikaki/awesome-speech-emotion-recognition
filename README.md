@@ -56,11 +56,11 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 ### Datasets for Emotion Recognition
 
-<!--<div style="width:690px">-->
+<div style="width:100%">
 
   
-|Database| Language | Size | Type | Emotions | Modalities   | Resolution   |
-| ------ | -------- | ---- | ---- | -------- | :----------: | :----------: |
+| Database | Language | Size | Type | Emotions | Modalities | Resolution   |
+| -------- | -------- | ---- | ---- | -------- | :--------: | :----------: |
 | [AffectNet](http://mohammadmahoor.com/affectnet/) | N/A | ~450.000 subjects | Natural |  Continuous valence/arousal values and categorical emotions: anger, contempt, disgust, fear, happiness, neutral, sadness, surprise | Visual | 425x425 |
 | [Belfast Naturalistic Database](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/2125652/IEEE+Transactions+on+Affective+Computing+2011+Sneddon.pdf) | Spanish | 127 multi-cultural speakers of 298 emotional clips | Natural |  Amusement, anger, disgust, fear, frustration, sadness, surprise | Audio/Visual | N/A |
 | [Berlin Database of Emotional Speech (Emo-DB)](http://emodb.bilderbar.info/docu/) | German | 5 male and 5 female speakers, with more than 500 utterances | Acted | Anger, boredom, disgust, fear/anxiety, happiness, neutral, sadness | Audio | Audio: 48kHz, downsampled to 16kHz <br/> Formats:.wav |
@@ -74,7 +74,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [Surrey Audio-Visual Expressed Emotion (SAVEE)](http://kahlan.eps.surrey.ac.uk/savee/) <br/> [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/datasets/catalog/savee) | English | 4 male speakers x 480 utterances | Acted | Anger, disgust, fear, happiness, neutral, sadness, surprise | Audio/Visual | Audio: 44.1kHz - mono - 16bit <br/> Video: 256p - 60fps <br/> Formats: .wav, .avi | 
 | [SUSAS](https://catalog.ldc.upenn.edu/LDC99S78) | English | Speech under stress corpus with more than 16000 utterances from 32 speakers (13 females, 19 males) | Acted | Ten stress styles such as speaking style, single tracking task, and Lombard effect domain | Audio | 8kHz, 8bit PCM |
 
-<!--</div>-->
+</div>
 
 ### Datasets for Sound Classification
 
