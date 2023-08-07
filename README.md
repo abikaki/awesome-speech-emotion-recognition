@@ -2,7 +2,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition/graphs/commit-activity)
 ![GitHub last commit](https://img.shields.io/github/last-commit/abikaki/awesome-speech-emotion-recognition)
-<!--[![Count of Action Users](https://badgen.net/github/dependents-repo/abikaki/awesome-speech-emotion-recognition?icon=github&label=used%20by)](https://github.com/abikaki/awesome-speech-emotion-recognition/network/dependents)-->
+<!--![Downloads](https://img.shields.io/github/downloads/abikaki/awesome-speech-emotion-recognition/total.svg)
+[![Count of Action Users](https://badgen.net/github/dependents-repo/abikaki/awesome-speech-emotion-recognition?icon=github&label=used%20by)](https://github.com/abikaki/awesome-speech-emotion-recognition/network/dependents)-->
 
 ## Topics
 
@@ -23,7 +24,7 @@
 | -- | ------| -------- | ----- | ------ |
 | 2023 | April | Neurocomputing | [An ongoing review of speech emotion recognition](https://www.sciencedirect.com/science/article/pii/S0925231223000103) | <b>A comprehensive review of most popular datasets, and current machine learning and neural networks models for SER | 
 | 2023 | March | Information Fusion | [Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions](https://doi.org/10.1016/j.inffus.2022.09.025) | A review on multimodal fusion architectures |
-
+<!--[![fighsare](https://img.shields.io/badge/FigShare-DOI:00.0000/m9.figshare.00000000-556472?logo=figshare&logoColor=white)](https://figshare.com/account/home)-->
 
 ## Reviews
 |Year| Database | Title | Topics |
@@ -35,7 +36,7 @@
 | 2021 | Electronics | [A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism](https://www.mdpi.com/2079-9292/10/10/1163) | Extensive comparison of Deep Learning architectures, mainly on the IEMOCAP benchmark database | 
 | 2021 | Digital Signal Processing | [A survey of speech emotion recognition in natural environment](https://doi.org/10.1016/j.dsp.2020.102951) | A comprehensive survey of SER in the natural environment, various issues of SER in the natural environment, databases, feature extraction, and models |
 | 2021 | Archives of Computational Methods in Engineering | [Survey on Machine Learning in Speech Emotion Recognition and Vision Systems Using a Recurrent Neural Network (RNN)](https://doi.org/10.1007/s11831-021-09647-x)| A survey of deep learning algorithms in speech and vision applications and restrictions |
-| 2021 | Applied Sciences | [Deep Multimodal Emotion Recognition on Human Speech: A Review](https://doi.org/10.3390/app11177962) | An extensive review of state of the art in multimodal speech emotion recognition methodologies |
+| 2021 | Applied Sciences | [Deep Multimodal Emotion Recognition on Human Speech: A Review](https://doi.org/10.3390/app11177962) | An extensive review of the state-of-the-art in multimodal speech emotion recognition methodologies |
 
 ## Databases
 
@@ -55,42 +56,43 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 <div style="width:690px">
 
-|Database| Language | Size | Type | Emotions | Modalities | Resolution |
-| ------ | -------- | ---- | ---- | -------- | ---------- | ---------- |
+|Database| Language | Size | Type | Emotions | Modalities   | Resolution     |
+| ------ | -------- | ---- | ---- | -------- | :----------: | :----------: |
 | [AffectNet](http://mohammadmahoor.com/affectnet/) | N/A | ~450.000 subjects | Natural |  Continuous valence/arousal values and categorical emotions: anger, contempt, disgust, fear, happiness, neutral, sadness, surprise | Visual | 425x425 |
 | [Belfast Naturalistic Database](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/2125652/IEEE+Transactions+on+Affective+Computing+2011+Sneddon.pdf) | Spanish | 127 multi-cultural speakers of 298 emotional clips | Natural |  Amusement, anger, disgust, fear, frustration, sadness, surprise | Audio/Visual | N/A |
-| [Berlin Database of Emotional Speech (Emo-DB)](http://emodb.bilderbar.info/docu/) | German | 5 male and 5 female speakers, with more than 500 utterances | Acted | Anger, boredom, disgust, fear/anxiety, happiness, neutral, sadness | Audio | Audio: 48kHz, downsampled to 16kHz - .wav |
-| [CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI)](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/) | English | 1000 gender balanced YouTube speakers, 23500 sentences | Natural | Sentiment: Negative, weakly negative, neutral, weakly positive, positive Emotions: Anger, disgust, fear, happiness, sadness, surprise  | Audio/Visual/Text | N/A | 
-| [Interactive Emotional Motion Capture (USC-IEMOCAP)](https://sail.usc.edu/iemocap/) | English | A 12h multimodal and multispeaker (5 males and 5 females) database | Acted/Elicited | Anger, frustration, happiness, neutral, sadness as well as dimensional labels such as valence, activation and dominance | Audio/Visual | Audio: 48kHz, Video: 120 fps |
-| [MELD: Multimodal EmotionLines Dataset](https://affective-meld.github.io/) | English | More than 13000 utterances from multiple speakers | Natural | Anger, disgust, fear, joy, neutral, non-neutral, sadness, surprise | Audio/Visual/Text | Audio: 16bit PCM - .wav |
+| [Berlin Database of Emotional Speech (Emo-DB)](http://emodb.bilderbar.info/docu/) | German | 5 male and 5 female speakers, with more than 500 utterances | Acted | Anger, boredom, disgust, fear/anxiety, happiness, neutral, sadness | Audio | Audio: 48kHz, downsampled to 16kHz <br/> Formats:.wav |
+| [CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI)](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/) | English | 1000 gender-balanced YouTube speakers, 23500 sentences | Natural | Sentiment: Negative, weakly negative, neutral, weakly positive, positive Emotions: Anger, disgust, fear, happiness, sadness, surprise  | Audio/Visual/Text | N/A | 
+| [CREMA-D](https://ieeexplore.ieee.org/document/6849440) <br/> [![GitHub](https://img.shields.io/github/stars/CheyneyComputerScience/CREMA-D)](https://github.com/CheyneyComputerScience/CREMA-D) | English | 91 actors,48 males, and 43 females, 12 sentences | Acted | Anger, Disgust, Fear, Happy, Neutral and Sad / Emotional Intensity | Audio/Visual | Audio: 16kHz <br/> Formats:.wav,.mp3,.flv |
+| [Interactive Emotional Motion Capture (USC-IEMOCAP)](https://sail.usc.edu/iemocap/) <br/> [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/audio/2.0.1/generated/torchaudio.datasets.IEMOCAP.html#torchaudio.datasets.IEMOCAP) | English | A 12h multimodal and multispeaker (5 males and 5 females) database | Acted/Elicited | Anger, frustration, happiness, neutral, sadness as well as dimensional labels such as valence, activation and dominance | Audio/Visual | Audio: 48kHz <br/> Video: 120 fps |
+| [MELD: Multimodal EmotionLines Dataset](https://affective-meld.github.io/) | English | More than 13000 utterances from multiple speakers | Natural | Anger, disgust, fear, joy, neutral, non-neutral, sadness, surprise | Audio/Visual/Text | Audio: 16bit PCM <br/> Formats: .wav |
 | [OMG-Emotion](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/) | English | 10 hours of YouTube videos around 1min long | Natural | Continuous valence/arousal values and categorical emotions: anger, disgust, fear, happiness, neutral, sadness, surprise | Audio/Visual/Text | N/A | 
-| [Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://smartlaboratory.org/ravdess/) | English | A database of emotional speech and song of 12 males and 12 females | Acted | Anger, disgust, calmness, fear, happiness, neutral, sadness, surprise | Audio/Visual | Audio: 48kHz - 16bit - .wav, Video: 720p - .mp4 | 
+| [Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://smartlaboratory.org/ravdess/) | English | A database of emotional speech and song of 12 males and 12 females | Acted | Anger, disgust, calmness, fear, happiness, neutral, sadness, surprise | Audio/Visual | Audio: 48kHz - 16bit  <br/> Video: 720p <br/> Formats: .wav,.mp4 | 
 | [SEMAINE](https://semaine-db.eu/) | English | 95 sessions of human-agent interactions | Natural | 4D Emotional space | Audio/Visual/Text | N/A | 
-| [Surrey Audio-Visual Expressed Emotion (SAVEE)](http://kahlan.eps.surrey.ac.uk/savee/) | English | 4 male speakers x 480 utterances | Acted | Anger, disgust, fear, happiness, neutral, sadness, surprise | Audio/Visual | Audio: 44.1kHz - mono - 16bit - .wav, Video: 256p - 60fps - .avi | 
+| [Surrey Audio-Visual Expressed Emotion (SAVEE)](http://kahlan.eps.surrey.ac.uk/savee/) <br/> [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/datasets/catalog/savee) | English | 4 male speakers x 480 utterances | Acted | Anger, disgust, fear, happiness, neutral, sadness, surprise | Audio/Visual | Audio: 44.1kHz - mono - 16bit <br/> Video: 256p - 60fps <br/> Formats: .wav, .avi | 
 | [SUSAS](https://catalog.ldc.upenn.edu/LDC99S78) | English | Speech under stress corpus with more than 16000 utterances from 32 speakers (13 females, 19 males) | Acted | Ten stress styles such as speaking style, single tracking task, and Lombard effect domain | Audio | 8kHz, 8bit PCM |
 
 </div>
 
 ### Datasets for Sound Classification
 
-|Database| Size | Type | Resolution |
-| ------ | ---- | ---- | ---------- |
-| [AudioSet](https://research.google.com/audioset/) | 2017 |2.1 million sound-clips from YouTube videos | 632 audio event classes, 10sec long |
-| [ESC-50](https://github.com/karolpiczak/ESC-50#repository-content) | 2000 | Environmental audio recordings | 44.1kHz, mono, 5sec long | 
+|   Database   | Year | Type | Resolution   |
+| :----------: | ---- | ---- | :----------: |
+| [AudioSet](https://research.google.com/audioset/) <br/> [![GitHub](https://img.shields.io/github/stars/audioset/ontology)](https://github.com/audioset/ontology) | 2017 |2.1 million sound clips from YouTube videos, 632 audio event classes | N/A, 10sec long |
+| [ESC-50](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT)  <br/> [![GitHub](https://img.shields.io/github/stars/karolpiczak/ESC-50#repository-content)](https://github.com/karolpiczak/ESC-50#repository-content) | 2000 | Environmental audio recordings | 44.1kHz, mono, 5sec long | 
 
 ## Software
 
 * C++
-  * [Essentia](https://github.com/MTG/essentia) | A C++ library for audio and music analysis, description and synthesis, including Python bindings
+  * [Essentia](https://github.com/MTG/essentia) | A C++ library for audio and music analysis, description, and synthesis, including Python bindings
   * [openSMILE](https://www.audeering.com/research/opensmile/) | An open-source toolkit for audio feature extraction and classification of speech and music signals, including a C API with Python and C# bindings 
 * MATLAB
   * Audio Toolbox
   * [Covarep - A Cooperative Voice Analysis Repository for Speech Technologies](https://github.com/covarep/covarep) 
 * Python Libraries
-  * [Librosa](https://librosa.org/doc/latest/index.html) | A python package for music and audio analysis
-  * [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) | A python utility library for analyzing bioacoustic data
-  * [PyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis/wiki) | A python library that provides a wide range of audio-related functionalities focusing on feature extraction, classification, segmentation and visualization issues
-  * [Pydub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high level interface
+  * [Librosa](https://librosa.org/doc/latest/index.html) | A Python package for music and audio analysis
+  * [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) | A Python utility library for analyzing bioacoustic data
+  * [PyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis/wiki) | A Python library that provides a wide range of audio-related functionalities focusing on feature extraction, classification, segmentation, and visualization issues
+  * [Pydub](https://github.com/jiaaro/pydub) | Manipulate audio with a simple and easy high-level interface
   * [SpeechBrain](https://speechbrain.github.io/) | A PyTorch speech and all-in-one conversational AI toolkit
   * [SoundFile](https://python-soundfile.readthedocs.io/en/0.10.3post1/) | A python library for audio IO processing
 
@@ -111,7 +113,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 ## Journals
 | Name | Impact Factor | Review Method | First-decision |
-| ---- | ---- | -------- |-----------|
+| ------------ | ----------- | ------------ |-----------|
 | [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science#) | 1.039 | Peer-review | 13w | 
 | [International Journal of Speech Technology](https://www.springer.com/journal/10772/) | 1.803 | Peer-review | 61d |
 | [Machine Vision and Applications](https://www.springer.com/journal/138) |  2.012 | Peer-review | 44d |
@@ -127,7 +129,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 
 ## Conferences
-| Name | Year   | Location | More     |
+| Name | Date   | Location |  More     |
 | ---- | ------ |:--------:|:---------:|
 | [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/) | June 2023 | Vancouver Canada | [CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers) |
 | [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece |  [ICASSP-2023-Papers](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
