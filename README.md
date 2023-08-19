@@ -1,7 +1,7 @@
 
 
 # Awesome Speech Emotion Recognition 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition/graphs/commit-activity)
 ![GitHub last commit](https://img.shields.io/github/last-commit/abikaki/awesome-speech-emotion-recognition)
 <!--![Downloads](https://img.shields.io/github/downloads/abikaki/awesome-speech-emotion-recognition/total.svg)
@@ -133,10 +133,10 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 ## Conferences
 | Name | Date   | Location |  More     |
-| ---- | ------ |:--------:|:---------:|
-| [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/) | June 2023 | Vancouver Canada | [CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers) |
-| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece |  [ICASSP-2023-Papers](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
-| [Interspeech (ISCA)](https://interspeech2023.org) | August 2023 | Ireland | [INTERSPEECH-2023-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) | 
+| ---- | ------ |:--------:| --------- |
+| [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/) | June 2023 | Canada | [![GitHub](https://badgen.net/badge/conferences/CVPR2023/blue?icon=github)](https://github.com/DmitryRyumin/CVPR-2023-Papers) <br/> [![GitHub](https://badgen.net/badge/conferences/CVPR2023/orange?icon=github)](https://github.com/52CV/CVPR-2023-Papers)  |
+| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece |  [![GitHub](https://badgen.net/badge/conferences/ICASSP2023/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
+| [Interspeech (ISCA)](https://interspeech2023.org) | August 2023 | Ireland | [![GitHub](https://badgen.net/badge/conferences/INTERSPEECH2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) | 
 
 
 ## Learning
