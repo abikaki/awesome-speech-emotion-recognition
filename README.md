@@ -24,13 +24,14 @@
 ## What's New
 |Year| Month | Database | Title | Topics |
 | -- | ------| -------- | ----- | ------ |
-| 2023 | April | Neurocomputing | [An ongoing review of speech emotion recognition](https://www.sciencedirect.com/science/article/pii/S0925231223000103) | <b>A comprehensive review of most popular datasets, and current machine learning and neural networks models for SER | 
-| 2023 | March | Information Fusion | [Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions](https://doi.org/10.1016/j.inffus.2022.09.025) | A review on multimodal fusion architectures |
+| 2024 | February | Information Fusion | [Emotion recognition and artificial intelligence: A systematic review (2014–2023) and research recommendations](https://doi-org.ezproxy.lib.uh.edu/10.1016/j.inffus.2023.102019) | A systematic review of emotion recognition from different input signals (e.g, physical, physiological) |
 <!--[![fighsare](https://img.shields.io/badge/FigShare-DOI:00.0000/m9.figshare.00000000-556472?logo=figshare&logoColor=white)](https://figshare.com/account/home)-->
 
 ## Reviews
 |Year| Database | Title | Topics |
 | -- | -------- | ----- | ------ |
+| 2023 | Neurocomputing | [An ongoing review of speech emotion recognition](https://www.sciencedirect.com/science/article/pii/S0925231223000103) | <b>A comprehensive review of most popular datasets, and current machine learning and neural networks models for SER | 
+| 2023 | Information Fusion | [Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions](https://doi.org/10.1016/j.inffus.2022.09.025) | A review on multimodal fusion architectures |
 | 2022 | Neural Computing and Applications | [Human emotion recognition from EEG-based brain-computer interface using machine learning: a comprehensive review](https://doi.org/10.1007/s00521-022-07292-4) | Human emotion recognition using EEG-based brain signals and machine learning | 
 | 2022 | Wireless Personal Communications | [Survey of Deep Learning Paradigms for Speech Processing](https://doi.org/10.1007/s11277-022-09640-y) | Machine learning techniques for speech processing | 
 | 2022 | Electronics | [Bringing Emotion Recognition Out of the Lab into Real Life: Recent Advances in Sensors and Machine Learning](https://www.mdpi.com/2079-9292/11/3/496) | This work reviews progress in sensors and machine learning methods and techniques |
@@ -137,6 +138,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/) | June 2023 | Canada | [![GitHub](https://badgen.net/badge/conferences/CVPR2023/blue?icon=github)](https://github.com/DmitryRyumin/CVPR-2023-Papers) <br/> [![GitHub](https://badgen.net/badge/conferences/CVPR2023/orange?icon=github)](https://github.com/52CV/CVPR-2023-Papers)  |
 | [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece |  [![GitHub](https://badgen.net/badge/conferences/ICASSP2023/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
 | [Interspeech (ISCA)](https://interspeech2023.org) | August 2023 | Ireland | [![GitHub](https://badgen.net/badge/conferences/ISCA2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) | 
+| [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2023.ismir.net/) | November 2023 | Italy | [![GitHub](https://badgen.net/badge/conferences/ISMIR2023/red?icon=github)](https://github.com/yamathcy/ISMIR-2023-Papers) |
 
 
 ## Learning
@@ -162,7 +164,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 <table>
   <tr>
     <td width="30%">
-       A picture or picture(s) is or are worth a thousand words! A <a href="https://www.youtube.com/watch?v=t685WM5R6aM">2-min visual example</a> of how we communicate emotions, our perceptions, the role of subjectivity and what is effective listening.<br/><br/>Are emotions consistent?<br/><br/>What about the dynamics of the context to our decisions and emotional wellness?
+       A picture(s) is worth a thousand words! A <a href="https://www.youtube.com/watch?v=t685WM5R6aM">2-min visual example</a> of how we communicate emotions, our perceptions, the role of subjectivity and what is effective listening.<br/><br/>Are emotions consistent?<br/><br/>What about the dynamics of the context to our decisions and emotional wellness?
     </td>
     <td width="70%">
         <a href="https://www.youtube.com/watch?v=t685WM5R6aM"><img src="images/video-insideout.PNG"></a>
