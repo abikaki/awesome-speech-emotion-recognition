@@ -72,7 +72,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [Interactive Emotional Motion Capture (USC-IEMOCAP)](https://sail.usc.edu/iemocap/) <br/> [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/audio/2.0.1/generated/torchaudio.datasets.IEMOCAP.html#torchaudio.datasets.IEMOCAP) | English | A 12h multimodal and multispeaker (5 males and 5 females) database | Acted<br/>Elicited | Anger, frustration, happiness, neutral, sadness as well as dimensional labels such as valence, activation and dominance | Audio<br/>Visual | Audio: 48kHz <br/> Video: 120 fps |
 | [MELD: Multimodal EmotionLines Dataset](https://affective-meld.github.io/) | English | More than 13000 utterances from multiple speakers | Natural | Anger, disgust, fear, joy, neutral, non-neutral, sadness, surprise | Audio<br/>Visual<br/>Text | Audio: 16bit PCM <br/> Formats: .wav |
 | [OMG-Emotion](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/) | English | 10 hours of YouTube videos around 1min long | Natural | Continuous valence/arousal values and categorical emotions: anger, disgust, fear, happiness, neutral, sadness, surprise | Audio<br/>Visual<br/>Text | N/A | 
-| [Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://smartlaboratory.org/ravdess/) | English | A database of emotional speech and song of 12 males and 12 females | Acted | Anger, disgust, calmness, fear, happiness, neutral, sadness, surprise | Audio<br/>Visual | Audio: 48kHz - 16bit  <br/> Video: 720p <br/> Formats: .wav,.mp4 | 
+| [Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://smartlaboratory.org/ravdess/) <br/> [![DOI](https://zenodo.org/badge/doi/1188976.svg)](https://doi.org/1188976)| English | A database of emotional speech and song of 12 males and 12 females | Acted | Anger, disgust, calmness, fear, happiness, neutral, sadness, surprise | Audio<br/>Visual | Audio: 48kHz - 16bit  <br/> Video: 720p <br/> Formats: .wav,.mp4 | 
 | [SEMAINE](https://semaine-db.eu/) | English | 95 sessions of human-agent interactions | Natural | 4D Emotional space | Audio<br/>Visual<br/>Text | N/A | 
 | [Surrey Audio-Visual Expressed Emotion (SAVEE)](http://kahlan.eps.surrey.ac.uk/savee/) <br/> [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/datasets/catalog/savee) | English | 4 male speakers x 480 utterances | Acted | Anger, disgust, fear, happiness, neutral, sadness, surprise | Audio<br/>Visual | Audio: 44.1kHz - mono - 16bit <br/> Video: 256p - 60fps <br/> Formats: .wav, .avi | 
 | [SUSAS](https://catalog.ldc.upenn.edu/LDC99S78) | English | Speech under stress corpus with more than 16000 utterances from 32 speakers (13 females, 19 males) | Acted | Ten stress styles such as speaking style, single tracking task, and Lombard effect domain | Audio | 8kHz, 8bit PCM |
@@ -81,10 +81,13 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 ### Datasets for Sound Classification
 
-|   Database   | Year | Type | Resolution   |
-| :----------: | ---- | ---- | :----------: |
-| [AudioSet](https://research.google.com/audioset/) <br/> [![GitHub](https://img.shields.io/github/stars/audioset/ontology)](https://github.com/audioset/ontology) | 2017 |2.1 million sound clips from YouTube videos, 632 audio event classes | N/A, 10sec long |
-| [ESC-50](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT)  <br/> [![GitHub](https://img.shields.io/github/stars/karolpiczak/ESC-50#repository-content)](https://github.com/karolpiczak/ESC-50#repository-content) | 2000 | Environmental audio recordings | 44.1kHz, mono, 5sec long | 
+|   Database   | Year | Type |                        Resolution                        |
+| :----------: | ---- | ---- |:--------------------------------------------------------:|
+| [AudioSet](https://research.google.com/audioset/) <br/> [![GitHub](https://img.shields.io/github/stars/audioset/ontology)](https://github.com/audioset/ontology) | 2017 |2.1 million sound clips from YouTube videos, 632 audio event classes |                     N/A, 10sec long                      |
+| [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) <br/> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1203745.svg)](https://doi.org/10.5281/zenodo.1203745)| 2014 | Urban sound excerpts | sampling rate may vary from file to file, duration<=4sec |
+| [ESC-50](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT)  <br/> [![GitHub](https://img.shields.io/github/stars/karolpiczak/ESC-50#repository-content)](https://github.com/karolpiczak/ESC-50#repository-content) | 2000 | Environmental audio recordings |  44.1kHz, mono, 5sec long  |
+
+    
 
 ## Software
 
@@ -114,10 +117,12 @@ A graphical representation of the circumplex model of affect with the horizontal
 * Audio
   * [DeepSpectrum](https://github.com/DeepSpectrum/DeepSpectrum)
   * [ECAPA-TDNN](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb)
+  * [HuBERT](https://huggingface.co/docs/transformers/model_doc/hubert)
   * [OpenL3](https://github.com/marl/openl3)
   * [Resemblyzer](https://github.com/resemble-ai/Resemblyzer)
   * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
   * [Wav2Vec 2.0](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
+  
 
 ## Journals
 | Name | Impact Factor | Review Method | First-decision |
@@ -137,12 +142,13 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 
 ## Conferences
-| Name                                                                                                        | Date   | Location |  More     |
-|-------------------------------------------------------------------------------------------------------------| ------ |:--------:| --------- |
-| [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/)        | June 2023 | Canada | [![GitHub](https://badgen.net/badge/conferences/CVPR2023/blue?icon=github)](https://github.com/DmitryRyumin/CVPR-2023-Papers) <br/> [![GitHub](https://badgen.net/badge/conferences/CVPR2023/orange?icon=github)](https://github.com/52CV/CVPR-2023-Papers)  |
-| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/) | June 2023 | Greece |  [![GitHub](https://badgen.net/badge/conferences/ICASSP2023/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
-| [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2023.org)          | August 2023 | Ireland | [![GitHub](https://badgen.net/badge/conferences/ISCA2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) | 
-| [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2023.ismir.net/)    | November 2023 | Italy | [![GitHub](https://badgen.net/badge/conferences/ISMIR2023/red?icon=github)](https://github.com/yamathcy/ISMIR-2023-Papers) |
+| Name                                                                                                           | Date           | Location | More                                                                                                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------|----------------|:--------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/)           | June 2023      |  Canada  | [![GitHub](https://badgen.net/badge/conferences/CVPR2023/blue?icon=github)](https://github.com/DmitryRyumin/CVPR-2023-Papers) <br/> [![GitHub](https://badgen.net/badge/conferences/CVPR2023/orange?icon=github)](https://github.com/52CV/CVPR-2023-Papers) |
+| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/)    | June 2023      |  Greece  | [![GitHub](https://badgen.net/badge/conferences/ICASSP2023/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
+| [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2023.org)             | August 2023    | Ireland  | [![GitHub](https://badgen.net/badge/conferences/ISCA2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)   | 
+| [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://ismir2023.ismir.net/) | September 2023 | Finland  | [![GitHub](https://badgen.net/badge/conferences/DCASE2023/darkgray?icon=github)](https://github.com/abikaki/DCASE-2023-Papers)    |
+| [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2023.ismir.net/)       | November 2023  |  Italy   | [![GitHub](https://badgen.net/badge/conferences/ISMIR2023/red?icon=github)](https://github.com/yamathcy/ISMIR-2023-Papers)  |
 
 
 ## Learning
