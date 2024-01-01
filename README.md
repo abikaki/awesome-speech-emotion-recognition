@@ -68,6 +68,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [Belfast Naturalistic Database](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/2125652/IEEE+Transactions+on+Affective+Computing+2011+Sneddon.pdf) | Spanish | 127 multi-cultural speakers of 298 emotional clips | Natural |  Amusement, anger, disgust, fear, frustration, sadness, surprise | Audio<br/>Visual | N/A |
 | [Berlin Database of Emotional Speech (Emo-DB)](http://emodb.bilderbar.info/docu/) | German | 5 male and 5 female speakers, with more than 500 utterances | Acted | Anger, boredom, disgust, fear/anxiety, happiness, neutral, sadness | Audio | Audio: 48kHz, downsampled to 16kHz <br/> Formats:.wav |
 | [CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI)](http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/) | English | 1000 gender-balanced YouTube speakers, 23500 sentences | Natural | Sentiment: Negative, weakly negative, neutral, weakly positive, positive Emotions: Anger, disgust, fear, happiness, sadness, surprise  | Audio<br/>Visual<br/>Text | N/A | 
+| [CaFE](https://dl.acm.org/doi/10.1145/3204949.3208121) <br/> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1478765.svg)](https://doi.org/10.5281/zenodo.1478765) | French | 12 actors, 6 males, and 6 females, 6 sentences | Acted | Anger, disgust, fear, happiness, neutral, sadness, surprise in two different intensities | Audio | Audio: 192kHz and 48kHz <br/> Formats:.aiff |
 | [CREMA-D](https://ieeexplore.ieee.org/document/6849440) <br/> [![GitHub](https://img.shields.io/github/stars/CheyneyComputerScience/CREMA-D)](https://github.com/CheyneyComputerScience/CREMA-D) | English | 91 actors,48 males, and 43 females, 12 sentences | Acted | Anger, disgust, fear, happy, neutral and sad / Emotional Intensity | Audio<br/>Visual | Audio: 16kHz <br/> Formats:.wav,.mp3,.flv |
 | [Interactive Emotional Motion Capture (USC-IEMOCAP)](https://sail.usc.edu/iemocap/) <br/> [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/audio/2.0.1/generated/torchaudio.datasets.IEMOCAP.html#torchaudio.datasets.IEMOCAP) | English | A 12h multimodal and multispeaker (5 males and 5 females) database | Acted<br/>Elicited | Anger, frustration, happiness, neutral, sadness as well as dimensional labels such as valence, activation and dominance | Audio<br/>Visual | Audio: 48kHz <br/> Video: 120 fps |
 | [MELD: Multimodal EmotionLines Dataset](https://affective-meld.github.io/) | English | More than 13000 utterances from multiple speakers | Natural | Anger, disgust, fear, joy, neutral, non-neutral, sadness, surprise | Audio<br/>Visual<br/>Text | Audio: 16bit PCM <br/> Formats: .wav |
@@ -90,7 +91,7 @@ A graphical representation of the circumplex model of affect with the horizontal
     
 
 ## Software
-
+  
 * C++
   * [Essentia](https://github.com/MTG/essentia) | &nbsp; [![GitHub](https://img.shields.io/github/stars/MTG/essentia)](https://github.com/MTG/essentia) &nbsp; |A C++ library for audio and music analysis, description, and synthesis, including Python bindings
   * [openSMILE](https://www.audeering.com/research/opensmile/) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/audeering/opensmile)](https://github.com/audeering/opensmile) &nbsp;  |An open-source toolkit for audio feature extraction and classification of speech and music signals, including a C API with Python and C# bindings 
@@ -114,15 +115,16 @@ A graphical representation of the circumplex model of affect with the horizontal
 
   
 ## Embeddings
-* Audio
+* Audio/Speech
   * [DeepSpectrum](https://github.com/DeepSpectrum/DeepSpectrum)
   * [ECAPA-TDNN](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb)
   * [HuBERT](https://huggingface.co/docs/transformers/model_doc/hubert)
   * [OpenL3](https://github.com/marl/openl3)
   * [Resemblyzer](https://github.com/resemble-ai/Resemblyzer)
+  * [UniSpeech-SAT](https://huggingface.co/docs/transformers/model_doc/unispeech-sat)
   * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
   * [Wav2Vec 2.0](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
-  
+    
 
 ## Journals
 | Name | Impact Factor | Review Method | First-decision |
@@ -147,6 +149,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/)           | June 2023      |  Canada  | [![GitHub](https://badgen.net/badge/conferences/CVPR2023/blue?icon=github)](https://github.com/DmitryRyumin/CVPR-2023-Papers) <br/> [![GitHub](https://badgen.net/badge/conferences/CVPR2023/orange?icon=github)](https://github.com/52CV/CVPR-2023-Papers) |
 | [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/)    | June 2023      |  Greece  | [![GitHub](https://badgen.net/badge/conferences/ICASSP2023/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
 | [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2023.org)             | August 2023    | Ireland  | [![GitHub](https://badgen.net/badge/conferences/ISCA2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)   | 
+| [European Signal Processing Conference (EUSIPCO)](http://eusipco2023.org/) | September 2023 | Finland | :heavy_minus_sign: |
 | [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://ismir2023.ismir.net/) | September 2023 | Finland  | [![GitHub](https://badgen.net/badge/conferences/DCASE2023/darkgray?icon=github)](https://github.com/abikaki/DCASE-2023-Papers)    |
 | [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2023.ismir.net/)       | November 2023  |  Italy   | [![GitHub](https://badgen.net/badge/conferences/ISMIR2023/red?icon=github)](https://github.com/yamathcy/ISMIR-2023-Papers)  |
 
