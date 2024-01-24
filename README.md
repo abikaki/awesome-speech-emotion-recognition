@@ -84,7 +84,8 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 |   Database   | Year | Type |                        Resolution                        |
 | :----------: | ---- | ---- |:--------------------------------------------------------:|
-| [AudioSet](https://research.google.com/audioset/) <br/> [![GitHub](https://img.shields.io/github/stars/audioset/ontology)](https://github.com/audioset/ontology) | 2017 |2.1 million sound clips from YouTube videos, 632 audio event classes |                     N/A, 10sec long                      |
+| [VGGSound](http://www.robots.ox.ac.uk/~vgg/data/vggsound/) <br/> [![GitHub](https://img.shields.io/github/stars/hche11/VGGSound)](https://github.com/hche11/VGGSound) | 2020 | more than 210k videos for 310 audio classes | N/A, 10sec long |
+| [AudioSet](https://research.google.com/audioset/) <br/> [![GitHub](https://img.shields.io/github/stars/audioset/ontology)](https://github.com/audioset/ontology) | 2017 |2.1 million sound clips from YouTube videos, 632 audio event classes |  N/A, 10sec long  |
 | [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) <br/> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1203745.svg)](https://doi.org/10.5281/zenodo.1203745)| 2014 | Urban sound excerpts | sampling rate may vary from file to file, duration<=4sec |
 | [ESC-50](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT)  <br/> [![GitHub](https://img.shields.io/github/stars/karolpiczak/ESC-50#repository-content)](https://github.com/karolpiczak/ESC-50#repository-content) | 2000 | Environmental audio recordings |  44.1kHz, mono, 5sec long  |
 
@@ -117,13 +118,14 @@ A graphical representation of the circumplex model of affect with the horizontal
 ## Embeddings
 * Audio/Speech
   * [DeepSpectrum](https://github.com/DeepSpectrum/DeepSpectrum)
-  * [ECAPA-TDNN](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb)
+  * [ECAPA-TDNN](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb) 
   * [HuBERT](https://huggingface.co/docs/transformers/model_doc/hubert)
   * [OpenL3](https://github.com/marl/openl3)
   * [Resemblyzer](https://github.com/resemble-ai/Resemblyzer)
   * [UniSpeech-SAT](https://huggingface.co/docs/transformers/model_doc/unispeech-sat)
   * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
   * [Wav2Vec 2.0](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
+  
     
 
 ## Journals
@@ -144,14 +146,14 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 
 ## Conferences
-| Name                                                                                                           | Date           | Location |                                                                                                                             More                                                                                                                             |
-|----------------------------------------------------------------------------------------------------------------|----------------|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/)           | June 2023      |  Canada  | [![GitHub](https://badgen.net/badge/conferences/CVPR2023/blue?icon=github)](https://github.com/DmitryRyumin/CVPR-2023-Papers) <br/> [![GitHub](https://badgen.net/badge/conferences/CVPR2023/orange?icon=github)](https://github.com/52CV/CVPR-2023-Papers)  |
-| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/)    | June 2023      |  Greece  |                                                             [![GitHub](https://badgen.net/badge/conferences/ICASSP2023/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-Papers)                                                              |
-| [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2023.org)             | August 2023    | Ireland  |                                                            [![GitHub](https://badgen.net/badge/conferences/ISCA2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)                                                             | 
-| [European Signal Processing Conference (EUSIPCO)](http://eusipco2023.org/) | September 2023 | Finland |                                                                                                                      :heavy_minus_sign:                                                                                                                      |
-| [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://ismir2023.ismir.net/) | September 2023 | Finland  |                                                                [![GitHub](https://badgen.net/badge/conferences/DCASE2023/darkgray?icon=github)](https://github.com/abikaki/DCASE-2023-Papers)                                                                |
-| [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2023.ismir.net/)       | November 2023  |  Italy   |                                                                  [![GitHub](https://badgen.net/badge/conferences/ISMIR2023/red?icon=github)](https://github.com/yamathcy/ISMIR-2023-Papers)                                                                  |
+| Name                                                                                                           | Date           | Location |                                                                                                                            More                                                                                                                             | **Upcoming** |
+|----------------------------------------------------------------------------------------------------------------|----------------|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------:|
+| [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/)           | June 2023      |  Canada  | [![GitHub](https://badgen.net/badge/conferences/CVPR2023/blue?icon=github)](https://github.com/DmitryRyumin/CVPR-2023-Papers) <br/> [![GitHub](https://badgen.net/badge/conferences/CVPR2023/orange?icon=github)](https://github.com/52CV/CVPR-2023-Papers) |
+| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/)    | June 2023      |  Greece  |                                                             [![GitHub](https://badgen.net/badge/conferences/ICASSP2023/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-Papers)                                                             |
+| [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2023.org)             | August 2023    | Ireland  |                                                            [![GitHub](https://badgen.net/badge/conferences/ISCA2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)                                                            | 
+| [European Signal Processing Conference (EUSIPCO)](http://eusipco2023.org/)                                     | September 2023 | Finland  |                                                                                                                     :heavy_minus_sign:                                                                                                                      |
+| [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://ismir2023.ismir.net/) | September 2023 | Finland  |                                                               [![GitHub](https://badgen.net/badge/conferences/DCASE2023/darkgray?icon=github)](https://github.com/abikaki/DCASE-2023-Papers)                                                                |
+| [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2023.ismir.net/)       | November 2023  |  Italy   |                                                                 [![GitHub](https://badgen.net/badge/conferences/ISMIR2023/red?icon=github)](https://github.com/yamathcy/ISMIR-2023-Papers)                                                                  |
 
 
 ## Learning
