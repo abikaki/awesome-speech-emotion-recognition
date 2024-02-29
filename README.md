@@ -24,9 +24,10 @@
 * [Perspectives](#perspectives)
 
 ## What's New
-|Year| Month | Database | Title | Topics |
-| -- | ------| -------- | ----- | ------ |
-| 2024 | February | Information Fusion | [Emotion recognition and artificial intelligence: A systematic review (2014–2023) and research recommendations](https://doi-org.ezproxy.lib.uh.edu/10.1016/j.inffus.2023.102019) | A systematic review of emotion recognition from different input signals (e.g, physical, physiological) |
+| Year  | Month | Database | Title | Topics |
+|-------| ------| -------- | ----- | ------ |
+| 2024  | February | EURASIP Journal on Audio, Speech, and Music Processing | [Deep learning-based expressive speech synthesis: a systematic review of approaches, challenges, and resources](https://doi.org/10.1186/s13636-024-00329-7) | A systematic review of the literature on expressive speech synthesis models published within the last 5 years, with a particular emphasis on approaches based on deep learning | 
+| 2024  | February | Information Fusion | [Emotion recognition and artificial intelligence: A systematic review (2014–2023) and research recommendations](https://doi-org.ezproxy.lib.uh.edu/10.1016/j.inffus.2023.102019) | A systematic review of emotion recognition from different input signals (e.g, physical, physiological) |
 <!--[![fighsare](https://img.shields.io/badge/FigShare-DOI:00.0000/m9.figshare.00000000-556472?logo=figshare&logoColor=white)](https://figshare.com/account/home)-->
 
 ## Reviews
@@ -119,14 +120,15 @@ A graphical representation of the circumplex model of affect with the horizontal
 * Audio/Speech
   * [DeepSpectrum](https://github.com/DeepSpectrum/DeepSpectrum)
   * [ECAPA-TDNN](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb) 
+  * [emotion2vec](https://github.com/ddlBoJack/emotion2vec)
   * [HuBERT](https://huggingface.co/docs/transformers/model_doc/hubert)
   * [OpenL3](https://github.com/marl/openl3)
   * [Resemblyzer](https://github.com/resemble-ai/Resemblyzer)
   * [UniSpeech-SAT](https://huggingface.co/docs/transformers/model_doc/unispeech-sat)
   * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
   * [Wav2Vec 2.0](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
-  
-    
+
+
 
 ## Journals
 | Name | Impact Factor | Review Method | First-decision |
