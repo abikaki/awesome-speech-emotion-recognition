@@ -212,7 +212,7 @@ A graphical representation of the circumplex model of affect with the horizontal
        A picture(s) is worth a thousand words! A <a href="https://www.youtube.com/watch?v=t685WM5R6aM">2-min visual example</a> of how we communicate emotions, our perceptions, the role of subjectivity and what is effective listening.<br/><br/>Are emotions consistent?<br/><br/>What about the dynamics of the context to our decisions and emotional wellness?
     </td>
     <td width="70%">
-        <a href="https://www.youtube.com/watch?v=t685WM5R6aM"><img src="images/video-insideout.png"></a>
+        <a href="https://www.youtube.com/watch?v=t685WM5R6aM"><img src="images/video-insideout.PNG"></a>
     </td>
   </tr>
 </table>
