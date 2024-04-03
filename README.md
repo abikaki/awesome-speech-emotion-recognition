@@ -161,11 +161,11 @@ A graphical representation of the circumplex model of affect with the horizontal
 | Name                                                                                                           | Date           | Location |                                                                                                                            More                                                                                                                             |
 |----------------------------------------------------------------------------------------------------------------|----------------|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr2023.thecvf.com/)           | June 2023      |  Canada  | [![GitHub](https://badgen.net/badge/conferences/CVPR2023/blue?icon=github)](https://github.com/DmitryRyumin/CVPR-2023-Papers) <br/> [![GitHub](https://badgen.net/badge/conferences/CVPR2023/orange?icon=github)](https://github.com/52CV/CVPR-2023-Papers) |
-| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/)    | June 2023      |  Greece  |                                                             [![GitHub](https://badgen.net/badge/conferences/ICASSP2023/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
-| [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2023.org)             | August 2023    | Ireland  |                                                            [![GitHub](https://badgen.net/badge/conferences/ISCA2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) | 
-| [European Signal Processing Conference (EUSIPCO)](http://eusipco2023.org/)                                     | September 2023 | Finland  |                                                                :heavy_minus_sign:   |
-| [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://dcase.community/workshop2023/index) | September 2023 | Finland  |                                                               [![GitHub](https://badgen.net/badge/conferences/DCASE2023/darkgray?icon=github)](https://github.com/abikaki/DCASE-2023-Papers) |
-| [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2023.ismir.net/)       | November 2023  |  Italy   |                                                                 [![GitHub](https://badgen.net/badge/conferences/ISMIR2023/red?icon=github)](https://github.com/yamathcy/ISMIR-2023-Papers) |
+| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2023.ieeeicassp.org/)    | June 2023      |  Greece  |  [![GitHub](https://badgen.net/badge/conferences/ICASSP2023/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) |
+| [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2023.org)             | August 2023    | Ireland  | [![GitHub](https://badgen.net/badge/conferences/ISCA2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)  | 
+| [European Signal Processing Conference (EUSIPCO)](http://eusipco2023.org/)                                     | September 2023 | Finland  |      :heavy_minus_sign:                                  |
+| [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://dcase.community/workshop2023/index) | September 2023 | Finland  | [![GitHub](https://badgen.net/badge/conferences/DCASE2023/darkgray?icon=github)](https://github.com/abikaki/DCASE-2023-Papers)                                |
+| [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2023.ismir.net/)       | November 2023  |  Italy   |  [![GitHub](https://badgen.net/badge/conferences/ISMIR2023/red?icon=github)](https://github.com/yamathcy/ISMIR-2023-Papers)                                 |
 
 </details>
 
@@ -175,13 +175,14 @@ A graphical representation of the circumplex model of affect with the horizontal
 
 | Name      | Date           |        Location        |                                                                                              More    |
 |-----------|----------------|:----------------------:|:----------------------------------------------------------------------------------------------------:|
-| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2024.ieeeicassp.org/)    | April 2024     |      Seoul, Korea      | :heavy_minus_sign: |
+| [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2024.ieeeicassp.org/)    | April 2024     |      Seoul, Korea      | [![GitHub](https://badgen.net/badge/conferences/ICASSP2024/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) | 
 | [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr.thecvf.com/)           | June 2024      |    Seattle, WA, USA    | :heavy_minus_sign: |
 | [International Conference on Machine Learning (ICML)](https://icml.cc/Conferences/2024) | July 2024 | Vienna, Austria | :heavy_minus_sign: | 
 | [European Signal Processing Conference (EUSIPCO)](https://eusipcolyon.sciencesconf.org/)  | August 2024    |      Lyon, France      | :heavy_minus_sign: |
 | [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2024.org/)        | September 2024 |      Kos, Greece       | :heavy_minus_sign: |
 | [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://dcase.community/workshop2024/index) | October 2024   |      Tokyo, Japan      | [![GitHub](https://badgen.net/badge/conferences/DCASE2024/darkgray?icon=github)](https://github.com/abikaki/DCASE-Workshop-Papers/blob/main/2024/README.md)
 | [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2024.ismir.net/)       | November 2024  | San Fransisco, CA, USA | :heavy_minus_sign: |
+| [Conference and Workshop on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) | December 2024 | Vancouver, Canada |  :heavy_minus_sign: |
 
 </details>
 
