@@ -14,15 +14,12 @@
 * [What's New](#whats-new)
 * [Reviews](#reviews)
 * [Databases](#databases)
-* [Software](#software)
-* [Tools](#tools)
-* [Embeddings](#embeddings)
-* [Data Augmentation](#audiospeech-data-augmentation)
-* [Journals](#journals)
-* [Conferences](#conferences)
+* [Developing](#developing)
+* [Training](#training)
+* [Publishing](#publishing)
 * [Learning](#learning)
-* [Other Awesome Material](#other-awesome-material)
-* [Perspectives](#perspectives)
+* [Maybe Useful](#maybe-useful)
+
 
 ## What's New
 | Year  | Month | Database | Title | Topics |
@@ -93,8 +90,8 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [ESC-50](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT)  <br/> [![GitHub](https://img.shields.io/github/stars/karolpiczak/ESC-50#repository-content)](https://github.com/karolpiczak/ESC-50#repository-content) | 2000 | Environmental audio recordings |  44.1kHz, mono, 5sec long  |
 
     
-
-## Software
+## Developing
+### Software
   
 * C++
   * [Essentia](https://github.com/MTG/essentia) | &nbsp; [![GitHub](https://img.shields.io/github/stars/MTG/essentia)](https://github.com/MTG/essentia) &nbsp; |A C++ library for audio and music analysis, description, and synthesis, including Python bindings
@@ -109,7 +106,7 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [Pydub](https://github.com/jiaaro/pydub) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/jiaaro/pydub)](https://github.com/jiaaro/pydub) &nbsp;  | Manipulate audio with a simple and easy high-level interface
   * [SoundFile](https://python-soundfile.readthedocs.io/en/0.10.3post1/) |   &nbsp; [![GitHub](https://img.shields.io/github/stars/bastibe/python-soundfile)](https://github.com/bastibe/python-soundfile) &nbsp;  | A python library for audio IO processing
 
-## Tools
+### Tools
   * [Audacity](https://www.audacityteam.org/) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/audacity/audacity)](https://github.com/audacity/audacity) &nbsp; | Free, open source, cross-platform audio software
   * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT)](https://github.com/AIGC-Audio/AudioGPT) &nbsp;  | Solve AI tasks with speech, music, sound, and talking head understanding and generation in multi-round dialogues, which empower humans to create rich and diverse audio content with unprecedented ease ([paper](https://arxiv.org/abs/2304.12995))
   * [ESPNet](https://github.com/espnet/espnet) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) &nbsp; | ESPnet is an end-to-end speech processing toolkit covering end-to-end speech recognition, text-to-speech, speech translation, speech enhancement, speaker diarization, and spoken language understanding
@@ -118,7 +115,8 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [SpeechBrain](https://speechbrain.github.io/) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/speechbrain/speechbrain)](https://github.com/speechbrain/speechbrain) &nbsp; | A PyTorch speech and all-in-one conversational AI toolkit
 
   
-## Embeddings
+## Training
+### Embeddings
 * Audio/Speech
   * [DeepSpectrum](https://github.com/DeepSpectrum/DeepSpectrum)
   * [ECAPA-TDNN](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb) 
@@ -131,12 +129,13 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [Wav2Vec 2.0](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
 
 
-## Audio/Speech Data Augmentation
+### Audio/Speech Data Augmentation
 * [Audiomentations](https://iver56.github.io/audiomentations/) - A Python library for audio data augmentation
 * [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch
 
 
-## Journals
+## Publishing
+### Journals
 | Name | Impact Factor | Review Method | First-decision |
 | ------------ | ----------- | ------------ |-----------|
 | [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science#) | 1.039 | Peer-review | 13w | 
@@ -153,7 +152,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=5165369) | 10.506 | Peer-review | N/A |
 
 
-## Conferences
+### Conferences
 
 <details>
 <summary> <b>2023</b> </summary>
@@ -193,7 +192,8 @@ A graphical representation of the circumplex model of affect with the horizontal
 * [The Scientist and Engineer's Guide to Digital Signal Processing, Steven W. Smith](https://www.dspguide.com/pdfbook.htm)
   
 
-## Other Awesome Material
+## Maybe Useful
+### Other Awesome Material
 
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
 * [Awesome-SOTA-FER](https://github.com/kdhht2334/awesome-SOTA-FER) a curated list of facial expression recognition in both 7-emotion classification and affect estimation
@@ -205,7 +205,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 * [Project TaRSila](https://sites.google.com/view/tarsila-c4ai/) speech datasets for Brazilian Portuguese language
 * ✨❔
 
-## Perspectives
+### Perspectives
 
 <table>
   <tr>
