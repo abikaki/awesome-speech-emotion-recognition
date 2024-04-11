@@ -100,13 +100,15 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [Audio Toolbox](https://www.mathworks.com/products/audio.html) | Provides tools for audio processing, speech analysis, and acoustic measurement
   * [Covarep](https://github.com/covarep/covarep) | &nbsp; [![GitHub](https://img.shields.io/github/stars/covarep/covarep)](https://github.com/covarep/covarep) &nbsp; | A Cooperative Voice Analysis Repository for Speech Technologies
 * Python Libraries
+  * [Aubio](http://aubio.org) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/aubio/aubio)](https://github.com/aubio/aubio) &nbsp; | Free, open source library for audio and music analysis
   * [Librosa](https://librosa.org/doc/latest/index.html) | &nbsp; [![GitHub](https://img.shields.io/github/stars/librosa/librosa)](https://github.com/librosa/librosa) &nbsp; | A Python package for music and audio analysis
   * [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/kitzeslab/opensoundscape)](https://github.com/kitzeslab/opensoundscape) &nbsp; | A Python utility library for analyzing bioacoustic data
+  * [Parselmouth](https://parselmouth.readthedocs.io/) | &nbsp; [![GitHub](https://img.shields.io/github/stars/YannickJadoul/Parselmouth)](https://github.com/YannickJadoul/Parselmouth) &nbsp; | A Pythonic interface to the [Praat](http://www.praat.org/) software 
   * [PyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis/wiki) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/tyiannak/pyAudioAnalysis)](https://github.com/tyiannak/pyAudioAnalysis) &nbsp; | A Python library that provides a wide range of audio-related functionalities focusing on feature extraction, classification, segmentation, and visualization issues
   * [Pydub](https://github.com/jiaaro/pydub) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/jiaaro/pydub)](https://github.com/jiaaro/pydub) &nbsp;  | Manipulate audio with a simple and easy high-level interface
   * [SoundFile](https://python-soundfile.readthedocs.io/en/0.10.3post1/) |   &nbsp; [![GitHub](https://img.shields.io/github/stars/bastibe/python-soundfile)](https://github.com/bastibe/python-soundfile) &nbsp;  | A python library for audio IO processing
 
-### Tools
+### Tools 
   * [Audacity](https://www.audacityteam.org/) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/audacity/audacity)](https://github.com/audacity/audacity) &nbsp; | Free, open source, cross-platform audio software
   * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT)](https://github.com/AIGC-Audio/AudioGPT) &nbsp;  | Solve AI tasks with speech, music, sound, and talking head understanding and generation in multi-round dialogues, which empower humans to create rich and diverse audio content with unprecedented ease ([paper](https://arxiv.org/abs/2304.12995))
   * [ESPNet](https://github.com/espnet/espnet) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) &nbsp; | ESPnet is an end-to-end speech processing toolkit covering end-to-end speech recognition, text-to-speech, speech translation, speech enhancement, speaker diarization, and spoken language understanding
@@ -118,6 +120,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 ## Training
 ### Embeddings
 * Audio/Speech
+  * [Data2vec 2.0](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)
   * [DeepSpectrum](https://github.com/DeepSpectrum/DeepSpectrum)
   * [ECAPA-TDNN](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb) 
   * [emotion2vec](https://github.com/ddlBoJack/emotion2vec)
