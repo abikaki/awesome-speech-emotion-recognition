@@ -73,9 +73,10 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [Interactive Emotional Motion Capture (USC-IEMOCAP)](https://sail.usc.edu/iemocap/) <br/> [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/audio/2.0.1/generated/torchaudio.datasets.IEMOCAP.html#torchaudio.datasets.IEMOCAP) | English | A 12h multimodal and multispeaker (5 males and 5 females) database                                 | Acted<br/>Elicited | Anger, frustration, happiness, neutral, sadness as well as dimensional labels such as valence, activation and dominance | Audio<br/>Visual | Audio: 48kHz <br/> Video: 120 fps |
 | [MELD: Multimodal EmotionLines Dataset](https://affective-meld.github.io/) | English | More than 13000 utterances from multiple speakers                                                  | Natural | Anger, disgust, fear, joy, neutral, non-neutral, sadness, surprise | Audio<br/>Visual<br/>Text | Audio: 16bit PCM <br/> Formats: .wav |
 | [OMG-Emotion](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/) | English | 10 hours of YouTube videos around 1min long                                                        | Natural | Continuous valence/arousal values and categorical emotions: anger, disgust, fear, happiness, neutral, sadness, surprise | Audio<br/>Visual<br/>Text | N/A | 
-| [Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://smartlaboratory.org/ravdess/) <br/> [![DOI](https://zenodo.org/badge//DOI/10.5281/zenodo.1188976.svg)](https://doi.org/10.5281/zenodo.1188976)| English | A database of emotional speech and song of 12 males and 12 females                                 | Acted | Anger, disgust, calmness, fear, happiness, neutral, sadness, surprise | Audio<br/>Visual | Audio: 48kHz - 16bit  <br/> Video: 720p <br/> Formats: .wav,.mp4 | 
+| [RESD (Russian Emotional Speech Dialogs)](https://huggingface.co/datasets/Aniemore/resd_annotated) | Russian | 3.5 hours of live speech | Natural | Anger, disgust, fear, enthusiasm, happiness, neutral and sadness | Audio: 16 or 44.1kHz  <br/> Formats: .wav
+| [Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://smartlaboratory.org/ravdess/) <br/> [![DOI](https://zenodo.org/badge//DOI/10.5281/zenodo.1188976.svg)](https://doi.org/10.5281/zenodo.1188976)| English | A database of emotional speech and song of 12 males and 12 females  | Acted | Anger, disgust, calmness, fear, happiness, neutral, sadness, surprise | Audio<br/>Visual | Audio: 48kHz - 16bit  <br/> Video: 720p <br/> Formats: .wav,.mp4 |
 | [SEMAINE](https://semaine-db.eu/) | English | 95 sessions of human-agent interactions                                                            | Natural | 4D Emotional space | Audio<br/>Visual<br/>Text | N/A | 
-| [Surrey Audio-Visual Expressed Emotion (SAVEE)](http://kahlan.eps.surrey.ac.uk/savee/) <br/> [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/datasets/catalog/savee) | English | 4 male speakers x 480 utterances                                                                   | Acted | Anger, disgust, fear, happiness, neutral, sadness, surprise | Audio<br/>Visual | Audio: 44.1kHz - mono - 16bit <br/> Video: 256p - 60fps <br/> Formats: .wav, .avi | 
+| [Surrey Audio-Visual Expressed Emotion (SAVEE)](http://kahlan.eps.surrey.ac.uk/savee/) <br/> [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/datasets/catalog/savee) | English | 4 male speakers x 480 utterances  | Acted | Anger, disgust, fear, happiness, neutral, sadness, surprise | Audio<br/>Visual | Audio: 44.1kHz - mono - 16bit <br/> Video: 256p - 60fps <br/> Formats: .wav, .avi | 
 | [SUSAS](https://catalog.ldc.upenn.edu/LDC99S78) | English | Speech under stress corpus with more than 16000 utterances from 32 speakers (13 females, 19 males) | Acted | Ten stress styles such as speaking style, single tracking task, and Lombard effect domain | Audio | 8kHz, 8bit PCM |
 
 </div>
@@ -130,6 +131,8 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [UniSpeech-SAT](https://huggingface.co/docs/transformers/model_doc/unispeech-sat)
   * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
   * [Wav2Vec 2.0](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
+  * [WavLM](https://huggingface.co/docs/transformers/model_doc/wavlm)
+ 
 
 
 ### Audio/Speech Data Augmentation
@@ -167,6 +170,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2023.org)             | August 2023    | Ireland  | [![GitHub](https://badgen.net/badge/conferences/ISCA2023/green?icon=github)](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers)  | 
 | [European Signal Processing Conference (EUSIPCO)](http://eusipco2023.org/)                                     | September 2023 | Finland  |      :heavy_minus_sign:                                  |
 | [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://dcase.community/workshop2023/index) | September 2023 | Finland  | [![GitHub](https://badgen.net/badge/conferences/DCASE2023/darkgray?icon=github)](https://github.com/abikaki/DCASE-2023-Papers)                                |
+| [IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)](https://waspaa.com/) | October 2023 |   USA    | :heavy_minus_sign: | 
 | [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2023.ismir.net/)       | November 2023  |  Italy   |  [![GitHub](https://badgen.net/badge/conferences/ISMIR2023/red?icon=github)](https://github.com/yamathcy/ISMIR-2023-Papers)                                 |
 
 </details>
@@ -178,17 +182,19 @@ A graphical representation of the circumplex model of affect with the horizontal
 | Name      | Date           |        Location        |                                                                                              More    |
 |-----------|----------------|:----------------------:|:----------------------------------------------------------------------------------------------------:|
 | [International Conference on Acoustics, Speech, & Signal Processing (ICASSP)](https://2024.ieeeicassp.org/)    | April 2024     |      Seoul, Korea      | [![GitHub](https://badgen.net/badge/conferences/ICASSP2024/yellow?icon=github)](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) | 
-| [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr.thecvf.com/)           | June 2024      |    Seattle, WA, USA    | :heavy_minus_sign: |
-| [International Conference on Machine Learning (ICML)](https://icml.cc/Conferences/2024) | July 2024 | Vienna, Austria | :heavy_minus_sign: | 
+| [IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)](https://cvpr.thecvf.com/)           | June 2024      |    Seattle, WA, USA    | [![GitHub](https://badgen.net/badge/conferences/CVPR2024/orange?icon=github)](https://github.com/DmitryRyumin/CVPR-2023-24-Papers) |
+| [International Conference on Machine Learning (ICML)](https://icml.cc/Conferences/2024) | July 2024      | Vienna, Austria | :heavy_minus_sign: | 
 | [European Signal Processing Conference (EUSIPCO)](https://eusipcolyon.sciencesconf.org/)  | August 2024    |      Lyon, France      | :heavy_minus_sign: |
 | [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2024.org/)        | September 2024 |      Kos, Greece       | :heavy_minus_sign: |
 | [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://dcase.community/workshop2024/index) | October 2024   |      Tokyo, Japan      | [![GitHub](https://badgen.net/badge/conferences/DCASE2024/darkgray?icon=github)](https://github.com/abikaki/DCASE-Workshop-Papers/blob/main/2024/README.md)
 | [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2024.ismir.net/)       | November 2024  | San Fransisco, CA, USA | :heavy_minus_sign: |
-| [Conference and Workshop on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) | December 2024 | Vancouver, Canada |  :heavy_minus_sign: |
+| [Conference and Workshop on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) | December 2024  | Vancouver, Canada |  :heavy_minus_sign: |
 
 </details>
 
 ## Learning
+* [Deep Learning for Audio](https://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
+* [Dive into Deep Learning](https://d2l.ai/)
 * [Introduction to Speech Processing, 2nd Edition, Aalto University](https://speechprocessingbook.aalto.fi/)
 * Mastering Audio - The Art and the Science, Robert A. Katz
 * [Spectral Audio Signal Processing, Julius O. Smith III](https://ccrma.stanford.edu/~jos/sasp/)
