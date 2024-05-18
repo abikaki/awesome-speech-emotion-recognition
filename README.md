@@ -18,7 +18,7 @@
 * [Training](#training)
 * [Publishing](#publishing)
 * [Learning](#learning)
-* [Maybe Useful](#maybe-useful)
+* [Other Awesome Material](#other-awesome-material)
 
 
 ## What's New
@@ -186,7 +186,8 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [International Conference on Machine Learning (ICML)](https://icml.cc/Conferences/2024) | July 2024      | Vienna, Austria | :heavy_minus_sign: | 
 | [European Signal Processing Conference (EUSIPCO)](https://eusipcolyon.sciencesconf.org/)  | August 2024    |      Lyon, France      | :heavy_minus_sign: |
 | [International Speech Communication Association - Interspeech (ISCA)](https://interspeech2024.org/)        | September 2024 |      Kos, Greece       | :heavy_minus_sign: |
-| [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://dcase.community/workshop2024/index) | October 2024   |      Tokyo, Japan      | [![GitHub](https://badgen.net/badge/conferences/DCASE2024/darkgray?icon=github)](https://github.com/abikaki/DCASE-Workshop-Papers/blob/main/2024/README.md)
+| [Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)](https://dcase.community/workshop2024/index) | October 2024   |      Tokyo, Japan      | [![GitHub](https://badgen.net/badge/conferences/DCASE2024/darkgray?icon=github)](https://github.com/abikaki/DCASE-Workshop-Papers/blob/main/2024/README.md) |
+| [ACM International Conference on Multimedia](https://2024.acmmm.org/) | October 2024 | Melbourne, Australia | :heavy_minus_sign: |
 | [International Society for Music Information Retrieval Conference (ISMIR)](https://ismir2024.ismir.net/)       | November 2024  | San Fransisco, CA, USA | :heavy_minus_sign: |
 | [Conference and Workshop on Neural Information Processing Systems (NeurIPS)](https://neurips.cc/) | December 2024  | Vancouver, Canada |  :heavy_minus_sign: |
 
@@ -199,19 +200,22 @@ A graphical representation of the circumplex model of affect with the horizontal
 * Mastering Audio - The Art and the Science, Robert A. Katz
 * [Spectral Audio Signal Processing, Julius O. Smith III](https://ccrma.stanford.edu/~jos/sasp/)
 * [The Scientist and Engineer's Guide to Digital Signal Processing, Steven W. Smith](https://www.dspguide.com/pdfbook.htm)
-  
 
-## Maybe Useful
-### Other Awesome Material
 
+## Other Awesome Material
+
+>Audio/Speech
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
-* [Awesome-SOTA-FER](https://github.com/kdhht2334/awesome-SOTA-FER) a curated list of facial expression recognition in both 7-emotion classification and affect estimation
 * [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
 * [Music Emotion Recognition Datasets](https://github.com/juansgomez87/datasets_emotion)
 * [Room Impulse Responses Datasets](https://github.com/RoyJames/room-impulse-responses)
 * [SER Datasets](https://superkogito.github.io/SER-datasets/#)
 * [Voice Datasets](https://github.com/jim-schwoebel/voice_datasets)
 * [Project TaRSila](https://sites.google.com/view/tarsila-c4ai/) speech datasets for Brazilian Portuguese language
+* ✨❔
+>Face
+* [Awesome-SOTA-FER](https://github.com/kdhht2334/awesome-SOTA-FER) a curated list of facial expression recognition in both 7-emotion classification and affect estimation
+* [FG 2024](https://github.com/DmitryRyumin/FG-2024-Papers) experience the cutting edge of progress in facial analysis, gesture recognition, and biometrics with this repository
 * ✨❔
 
 ### Perspectives
@@ -223,6 +227,8 @@ A graphical representation of the circumplex model of affect with the horizontal
     </td>
     <td width="70%">
         <a href="https://www.youtube.com/watch?v=t685WM5R6aM"><img src="images/video-insideout.PNG"></a>
+        <br>
+        from <i>Inside Out</i> (2015) by Pixar Animation Studios 
     </td>
   </tr>
 </table>
