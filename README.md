@@ -213,7 +213,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 * [Voice Datasets](https://github.com/jim-schwoebel/voice_datasets)
 * [Project TaRSila](https://sites.google.com/view/tarsila-c4ai/) speech datasets for Brazilian Portuguese language
 * ✨❔
->Face
+>Visual/Face
 * [Awesome-SOTA-FER](https://github.com/kdhht2334/awesome-SOTA-FER) a curated list of facial expression recognition in both 7-emotion classification and affect estimation
 * [FG 2024](https://github.com/DmitryRyumin/FG-2024-Papers) experience the cutting edge of progress in facial analysis, gesture recognition, and biometrics with this repository
 * ✨❔
