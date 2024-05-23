@@ -90,7 +90,14 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) <br/> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1203745.svg)](https://doi.org/10.5281/zenodo.1203745)| 2014 | Urban sound excerpts | sampling rate may vary from file to file, duration<=4sec |
 | [ESC-50](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT)  <br/> [![GitHub](https://img.shields.io/github/stars/karolpiczak/ESC-50#repository-content)](https://github.com/karolpiczak/ESC-50#repository-content) | 2000 | Environmental audio recordings |  44.1kHz, mono, 5sec long  |
 
-    
+### Audio/Visual Room Acoustics Datasets
+
+|   Database   | Year | Description |
+| :----------: | ---- |------------------|
+| [Real Acoustic Fields (RAF)](https://github.com/facebookresearch/real-acoustic-fields) <br/> [![GitHub](https://img.shields.io/github/stars/facebookresearch/real-acoustic-fields)](https://github.com/RoyJames/room-impulse-responses) | 2024 | An audio-visual room acoustics dataset and benchmark | 
+| [Room Impulse Responses Datasets](https://github.com/RoyJames/room-impulse-responses) <br/> [![GitHub](https://img.shields.io/github/stars/RoyJames/room-impulse-responses)](https://github.com/RoyJames/room-impulse-responses) | 2023 | A list of publicly available room impulse response datasets and scripts to download them |
+
+
 ## Developing
 ### Software
   
@@ -113,12 +120,17 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [Audacity](https://www.audacityteam.org/) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/audacity/audacity)](https://github.com/audacity/audacity) &nbsp; | Free, open source, cross-platform audio software
   * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT)](https://github.com/AIGC-Audio/AudioGPT) &nbsp;  | Solve AI tasks with speech, music, sound, and talking head understanding and generation in multi-round dialogues, which empower humans to create rich and diverse audio content with unprecedented ease ([paper](https://arxiv.org/abs/2304.12995))
   * [ESPNet](https://github.com/espnet/espnet) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/espnet/espnet)](https://github.com/espnet/espnet) &nbsp; | ESPnet is an end-to-end speech processing toolkit covering end-to-end speech recognition, text-to-speech, speech translation, speech enhancement, speaker diarization, and spoken language understanding
-  * [Kaldi](https://kaldi-asr.org/) | &nbsp; [![GitHub](https://img.shields.io/github/stars/kaldi-asr/kaldi)](https://github.com/kaldi-asr/kaldi) &nbsp; | Kaldi is an  automatic speech recognition toolkit  
+  * [Kaldi](https://kaldi-asr.org/) | &nbsp; [![GitHub](https://img.shields.io/github/stars/kaldi-asr/kaldi)](https://github.com/kaldi-asr/kaldi) &nbsp; | Kaldi is an  automatic speech recognition toolkit
+  * [NVIDIA NeMo](https://github.com/NVIDIA/NeMo) | &nbsp; [![GitHub](https://img.shields.io/github/stars/NVIDIA/NeMo)](https://github.com/NVIDIA/NeMo) | NVIDIA NeMo is a conversational AI toolkit built for researchers working on automatic speech recognition (ASR), natural language processing (NLP), and text-to-speech synthesis (TTS)  
   * [S3PRL](https://s3prl.github.io/s3prl/) | &nbsp; [![GitHub](https://img.shields.io/github/stars/s3prl/s3prl)](https://github.com/s3prl/s3prl) &nbsp; | A toolkit targeting for Self-Supervised Learning for speech processing. It supports three major features: i) Pre-training, ii) Pre-trained models (Upstream) collection, and iii) Downstream Evaluation
   * [SpeechBrain](https://speechbrain.github.io/) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/speechbrain/speechbrain)](https://github.com/speechbrain/speechbrain) &nbsp; | A PyTorch speech and all-in-one conversational AI toolkit
 
   
 ## Training
+### Audio/Speech Data Augmentation
+* [Audiomentations](https://iver56.github.io/audiomentations/) - A Python library for audio data augmentation
+* [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch
+
 ### Embeddings
 * Audio/Speech
   * [Data2vec 2.0](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)
@@ -131,17 +143,25 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [UniSpeech-SAT](https://huggingface.co/docs/transformers/model_doc/unispeech-sat)
   * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
   * [Wav2Vec 2.0](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
-  * [WavLM](https://huggingface.co/docs/transformers/model_doc/wavlm)
- 
+  * [X-Vectors](https://github.com/manojpamk/pytorch_xvectors?tab=readme-ov-file#pretrained-model)
+  * [Xi-Vector](https://ieeexplore.ieee.org/document/10447414)
 
-
-### Audio/Speech Data Augmentation
-* [Audiomentations](https://iver56.github.io/audiomentations/) - A Python library for audio data augmentation
-* [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch
-
+### Metrics
+Various performance metrics can be used to evaluate a SER system, such as 
+  * Accuracy, Weighted Accuracy 
+  * Recall, Unweighted Average Recall, Weighted Average Recall
+  * Precision  
+  * F1 score, Weighted F1-score 
+  * Mean Absolute Error 
+  * Root Mean Square Error
+  * Average Recognition Rate
 
 ## Publishing
+
 ### Journals
+<details>
+<summary>List</summary>
+
 | Name | Impact Factor | Review Method | First-decision |
 | ------------ | ----------- | ------------ |-----------|
 | [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science#) | 1.039 | Peer-review | 13w | 
@@ -156,7 +176,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 | [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655) | 3.919 | Peer-review | N/A |
 | [Neurocomputing](https://www.journals.elsevier.com/neurocomputing) |  5.719 | Peer-review | 74d |
 | [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=5165369) | 10.506 | Peer-review | N/A |
-
+</details>
 
 ### Conferences
 
@@ -208,7 +228,6 @@ A graphical representation of the circumplex model of affect with the horizontal
 * [Awesome Speaker Diarization](https://github.com/wq2012/awesome-diarization)
 * [Casual Conversations Dataset](https://ai.facebook.com/datasets/casual-conversations-dataset/)
 * [Music Emotion Recognition Datasets](https://github.com/juansgomez87/datasets_emotion)
-* [Room Impulse Responses Datasets](https://github.com/RoyJames/room-impulse-responses)
 * [SER Datasets](https://superkogito.github.io/SER-datasets/#)
 * [Voice Datasets](https://github.com/jim-schwoebel/voice_datasets)
 * [Project TaRSila](https://sites.google.com/view/tarsila-c4ai/) speech datasets for Brazilian Portuguese language
