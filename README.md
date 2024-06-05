@@ -9,6 +9,17 @@
 <!--![Downloads](https://img.shields.io/github/downloads/abikaki/awesome-speech-emotion-recognition/total.svg)
 [![Count of Action Users](https://badgen.net/github/dependents-repo/abikaki/awesome-speech-emotion-recognition?icon=github&label=used%20by)](https://github.com/abikaki/awesome-speech-emotion-recognition/network/dependents)-->
 
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=bNIRb4TbrGk" target="_blank">
+        <img width="600" src="images/inside-out-2-trailer.PNG" alt="Inside Out 2">
+    </a>
+    <br/>
+    Emotions are all over the place <br> <i>Inside Out 2</i> (2024) by Pixar Animation Studios
+<p>
+
+
+
+
 ## Topics
 
 * [What's New](#whats-new)
@@ -131,6 +142,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 * [Audiomentations](https://iver56.github.io/audiomentations/) - A Python library for audio data augmentation
 * [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch
 
+
 ### Embeddings
 * Audio/Speech
   * [Data2vec 2.0](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)
@@ -214,7 +226,8 @@ Various performance metrics can be used to evaluate a SER system, such as
 </details>
 
 ## Learning
-* [Deep Learning for Audio](https://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
+
+* [Deep Learning for Audio (University of Illinois Urbana-Champaign)](https://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Introduction to Speech Processing, 2nd Edition, Aalto University](https://speechprocessingbook.aalto.fi/)
 * Mastering Audio - The Art and the Science, Robert A. Katz
@@ -239,7 +252,7 @@ Various performance metrics can be used to evaluate a SER system, such as
 
 ### Perspectives
 
-<table>
+<table> 
   <tr>
     <td width="30%">
        A picture(s) is worth a thousand words! A <a href="https://www.youtube.com/watch?v=t685WM5R6aM">2-min visual example</a> of how we communicate emotions, our perceptions, the role of subjectivity and what is effective listening.<br/><br/>Are emotions consistent?<br/><br/>What about the dynamics of the context to our decisions and emotional wellness?
