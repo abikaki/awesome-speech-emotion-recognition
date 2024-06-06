@@ -10,7 +10,7 @@
 [![Count of Action Users](https://badgen.net/github/dependents-repo/abikaki/awesome-speech-emotion-recognition?icon=github&label=used%20by)](https://github.com/abikaki/awesome-speech-emotion-recognition/network/dependents)-->
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=bNIRb4TbrGk" target="_blank">
+    <a href="https://www.youtube.com/watch?v=LEjhY15eCx0" target="_blank">
         <img width="600" src="images/inside-out-2-trailer.PNG" alt="Inside Out 2">
     </a>
     <br/>
