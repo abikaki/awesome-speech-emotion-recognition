@@ -33,11 +33,12 @@
 
 
 ## What's New
-| Year | Month    | Database                                               | Title                                                                                                                                                                            | Topics                                                                                                                                                                         |
-|------|----------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024 | March | International Journal of Speech Technology | [Automatic Speech Emotion Recognition: a Systematic Literature Review](https://doi.org/10.1007/s10772-024-10096-7) | A systematic literature review on Automatic Speech Emotion Recognition from 2011 to 2023 |
-| 2024 | February | EURASIP Journal on Audio, Speech, and Music Processing | [Deep learning-based expressive speech synthesis: a systematic review of approaches, challenges, and resources](https://doi.org/10.1186/s13636-024-00329-7)                      | A systematic review of the literature on expressive speech synthesis models published within the last 5 years, with a particular emphasis on approaches based on deep learning | 
-| 2024 | February | Information Fusion                                     | [Emotion recognition and artificial intelligence: A systematic review (2014–2023) and research recommendations](https://doi-org.ezproxy.lib.uh.edu/10.1016/j.inffus.2023.102019) | A systematic review of emotion recognition from different input signals (e.g, physical, physiological)                                                                         |
+| Year | Month    | Database                                               | Title                                                                                                                                                                            | Topics                                                                                                                                                                         | GitHub             |
+|------|----------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| 2024 | September | arXiv | [Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective](http://arxiv.org/abs/2409.07388) | A survey presenting recent trends in multimodal affective computing from an NLP perspective covering four tasks: multimodal sentiment analysis, multimodal emotion recognition in conversation, multimodal aspect-based sentiment analysis, and multimodal multi-label emotion recognition | [![GitHub](https://img.shields.io/github/stars/LeMei/Multimodal-Affective-Computing-Survey?style=flat)](https://github.com/LeMei/Multimodal-Affective-Computing-Survey) |
+| 2024 | March | International Journal of Speech Technology | [Automatic Speech Emotion Recognition: a Systematic Literature Review](https://doi.org/10.1007/s10772-024-10096-7) | A systematic literature review on Automatic Speech Emotion Recognition from 2011 to 2023 | :heavy_minus_sign: |
+| 2024 | February | EURASIP Journal on Audio, Speech, and Music Processing | [Deep learning-based expressive speech synthesis: a systematic review of approaches, challenges, and resources](https://doi.org/10.1186/s13636-024-00329-7)                      | A systematic review of the literature on expressive speech synthesis models published within the last 5 years, with a particular emphasis on approaches based on deep learning | :heavy_minus_sign: |
+| 2024 | February | Information Fusion                                     | [Emotion recognition and artificial intelligence: A systematic review (2014–2023) and research recommendations](https://doi-org.ezproxy.lib.uh.edu/10.1016/j.inffus.2023.102019) | A systematic review of emotion recognition from different input signals (e.g, physical, physiological)                                                                         | :heavy_minus_sign: |
 <!--[![fighsare](https://img.shields.io/badge/FigShare-DOI:00.0000/m9.figshare.00000000-556472?logo=figshare&logoColor=white)](https://figshare.com/account/home)-->
 
 ## Reviews
@@ -122,8 +123,7 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [Audio Toolbox](https://www.mathworks.com/products/audio.html) | Provides tools for audio processing, speech analysis, and acoustic measurement
   * [Covarep](https://github.com/covarep/covarep) | &nbsp; [![GitHub](https://img.shields.io/github/stars/covarep/covarep)](https://github.com/covarep/covarep) &nbsp; | A Cooperative Voice Analysis Repository for Speech Technologies
 * Python Libraries
-  * [Aubio](http://aubio.org) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/aubio/aubio)](https://github.com/aubio/aubio) &nbsp; | Free, open source library for audio and music analysis
-  * [Librosa](https://librosa.org/doc/latest/index.html) | &nbsp; [![GitHub](https://img.shields.io/github/stars/librosa/librosa)](https://github.com/librosa/librosa) &nbsp; | A Python package for music and audio analysis
+  * [Aubio](http://aubio.org) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/aubio/aubio)](https://github.com/aubio/aubio) &nbsp; | Free, open source library for audio and music analysis * [Librosa](https://librosa.org/doc/latest/index.html) | &nbsp; [![GitHub](https://img.shields.io/github/stars/librosa/librosa)](https://github.com/librosa/librosa) &nbsp; | A Python package for music and audio analysis
   * [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/kitzeslab/opensoundscape)](https://github.com/kitzeslab/opensoundscape) &nbsp; | A Python utility library for analyzing bioacoustic data
   * [Parselmouth](https://parselmouth.readthedocs.io/) | &nbsp; [![GitHub](https://img.shields.io/github/stars/YannickJadoul/Parselmouth)](https://github.com/YannickJadoul/Parselmouth) &nbsp; | A Pythonic interface to the [Praat](http://www.praat.org/) software 
   * [PyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis/wiki) |  &nbsp; [![GitHub](https://img.shields.io/github/stars/tyiannak/pyAudioAnalysis)](https://github.com/tyiannak/pyAudioAnalysis) &nbsp; | A Python library that provides a wide range of audio-related functionalities focusing on feature extraction, classification, segmentation, and visualization issues
@@ -158,6 +158,7 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [UniSpeech-SAT](https://huggingface.co/docs/transformers/model_doc/unispeech-sat)
   * [VGGish](https://github.com/tensorflow/models/blob/master/research/audioset/vggish/README.md)
   * [Wav2Vec 2.0](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
+  * [WavLM](https://huggingface.co/microsoft/wavlm-base)
   * [Whisper](https://huggingface.co/openai)
   * [X-Vectors](https://github.com/manojpamk/pytorch_xvectors?tab=readme-ov-file#pretrained-model)
   * [Xi-Vector](https://ieeexplore.ieee.org/document/10447414)
@@ -232,7 +233,6 @@ Various performance metrics can be used to evaluate a SER system, such as
 </details>
 
 ## Learning
-
 * [Deep Learning for Audio (University of Illinois Urbana-Champaign)](https://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Introduction to Speech Processing, 2nd Edition, Aalto University](https://speechprocessingbook.aalto.fi/)
