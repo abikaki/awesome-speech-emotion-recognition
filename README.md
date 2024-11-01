@@ -20,7 +20,7 @@
 
 
 
-## Topic
+## Topics
 * [Reviews](#reviews)
 * [Databases](#databases)
 * [Developing](#developing)
@@ -37,7 +37,7 @@
 * G. Hu, Y. Xin, W. Lyu, H. Huang, C. Sun, Z. Zhu, L. Gui, and R. Cai, “[Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective](http://arxiv.org/abs/2409.07388)”, arXiv, Sep. 11, 2024.
   <br><i>A survey presenting recent trends in multimodal affective computing from an NLP perspective covering four tasks: multimodal sentiment analysis, multimodal emotion recognition in conversation, multimodal aspect-based sentiment analysis, and multimodal multi-label emotion recognition </i> &nbsp; [![GitHub](https://img.shields.io/github/stars/LeMei/Multimodal-Affective-Computing-Survey?style=flat)](https://github.com/LeMei/Multimodal-Affective-Computing-Survey)
 * I. Saadi, D. W. cunningham, A. Taleb-Ahmed, A. Hadid, and Y. E. Hillali, “[Driver’s facial expression recognition: A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S0957417423032864)”, Expert Systems with Applications, vol. 242, p. 122784, May 2024, doi: 10.1016/j.eswa.2023.122784.
-  <br><i>A comprehensive survey on recognizing facial expressions of drivers from 2018 to 2024</i>
+  <br><i>A comprehensive survey from 2018 to 2024 on recognizing facial expressions of drivers</i>
 * H. H. Mustafa, N. R. Darwish, and H. A. Hefny, “[Automatic Speech Emotion Recognition: a Systematic Literature Review](https://doi.org/10.1007/s10772-024-10096-7)”, International Journal of Speech Technology, vol. 27, no. 1, pp. 267–285, Mar. 2024, doi: 10.1007/s10772-024-10096-7.
   <br><i>A systematic literature review on Automatic Speech Emotion Recognition from 2011 to 2023</i>
 * H. Barakat, O. Turk, and C. Demiroglu, “[Deep learning-based expressive speech synthesis: a systematic review of approaches, challenges, and resources](https://doi.org/10.1186/s13636-024-00329-7)”, EURASIP Journal on Audio, Speech, and Music Processing, vol. 2024, no. 1, p. 11, Feb. 2024, doi: 10.1186/s13636-024-00329-7.
@@ -55,7 +55,7 @@
 * K. B. Bhangale and M. Kothandaraman, “[Survey of Deep Learning Paradigms for Speech Processing](https://doi.org/10.1007/s11277-022-09640-y)”, Wireless Personal Communications, Mar. 2022, doi: 10.1007/s11277-022-09640-y.
   <br><i>Machine learning techniques for speech processing</i>
 * S. Saganowski, “[Bringing Emotion Recognition Out of the Lab into Real Life: Recent Advances in Sensors and Machine Learning](https://www.mdpi.com/2079-9292/11/3/496)”, Electronics, vol. 11, no. 3, Art. no. 3, Feb. 2022, doi: 10.3390/electronics11030496.
-  <br><i>This work reviews progress in sensors and machine learning methods and techniques</i>
+  <br><i>Advancements in sensors and machine learning methods and techniques</i>
 ### 2021
 * T. M. Wani, T. S. Gunawan, S. A. A. Qadri, M. Kartiwi, and E. Ambikairajah, “[A Comprehensive Review of Speech Emotion Recognition Systems](https://doi.org/10.1109/ACCESS.2021.3068045)”, IEEE Access, vol. 9, pp. 47795–47814, Mar. 2021, doi: 10.1109/ACCESS.2021.3068045. 
   <br> <i>SER systems' varied design components/methodologies, databases  </i>
@@ -66,7 +66,7 @@
 * S. P. Yadav, S. Zaidi, A. Mishra, and V. Yadav, “[Survey on Machine Learning in Speech Emotion Recognition and Vision Systems Using a Recurrent Neural Network (RNN)](https://doi.org/10.1007/s11831-021-09647-x)”, Archives of Computational Methods in Engineering, vol. 29, no. 3, pp. 1753–1770, May 2022, doi: 10.1007/s11831-021-09647-x.
   <br><i>A survey of deep learning algorithms in speech and vision applications and restrictions</i>
 * P. Koromilas and T. Giannakopoulos, “[Deep Multimodal Emotion Recognition on Human Speech: A Review](https://doi.org/10.3390/app11177962)”, Applied Sciences, vol. 11, no. 17, Art. no. 17, Jan. 2021, doi: 10.3390/app11177962.
-  <br/><i>An extensive review of the state-of-the-art in multimodal speech emotion recognition methodologies</i>
+  <br/><i>A comprehensive review of the latest advancements in multimodal speech emotion recognition methods.</i>
 
 ## Databases
 
