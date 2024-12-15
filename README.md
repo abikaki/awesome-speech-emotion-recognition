@@ -18,6 +18,9 @@
 <p>
 
 
+This repository consists of a curated lst of resources related to the field of emotion recognition. 
+
+It serves as a comprehensive guide for researchers, developers, and enthusiasts interested in understanding and advancing the technologies behind detecting emotions with a primary focus on audio, while also extending to the integration of visual data.
 
 
 ## Topics
@@ -159,6 +162,7 @@ A graphical representation of the circumplex model of affect with the horizontal
 * [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch
 
 
+
 ### Embeddings
 * Audio/Speech
   * [Data2vec 2.0](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)
@@ -175,6 +179,9 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [Whisper](https://huggingface.co/openai)
   * [X-Vectors](https://github.com/manojpamk/pytorch_xvectors?tab=readme-ov-file#pretrained-model)
   * [Xi-Vector](https://ieeexplore.ieee.org/document/10447414)
+* Visual
+  * [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+  * [VGG-Face](https://github.com/rcmalli/keras-vggface)
 
 ### Metrics
 Various performance metrics can be used to evaluate a SER system, such as 
@@ -246,7 +253,8 @@ Various performance metrics can be used to evaluate a SER system, such as
 </details>
 
 ## Learning
- 
+
+* [Deep Learning for Audio (HSE University)](https://github.com/markovka17/dla) 
 * [Deep Learning for Audio (University of Illinois Urbana-Champaign)](https://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Introduction to Speech Processing, 2nd Edition, Aalto University](https://speechprocessingbook.aalto.fi/)
