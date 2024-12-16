@@ -18,7 +18,7 @@
 <p>
 
 
-This repository consists of a curated lst of resources related to the field of emotion recognition. 
+This repository consists of a curated list of resources related to emotion recognition. 
 
 It serves as a comprehensive guide for researchers, developers, and enthusiasts interested in understanding and advancing the technologies behind detecting emotions with a primary focus on audio, while also extending to the integration of visual data.
 
