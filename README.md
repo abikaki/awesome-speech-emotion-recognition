@@ -34,6 +34,9 @@ It serves as a comprehensive guide for researchers, developers, and enthusiasts 
 
 
 ## Reviews
+### 2025
+* J. Xue, J. Wang, X. Liu, Q. Zhang, and X. Wu, (2025). “[Affective Video Content Analysis: Decade Review and New Perspectives,”](https://ieeexplore.ieee.org/document/10807333/?arnumber=10807333) Big Data Mining and Analytics 8, 118–144.
+
 ### 2024
 * Gan, C., Zheng, J., Zhu, Q., Cao, Y., & Zhu, Y. (2024). "[A survey of dialogic emotion analysis: Developments, approaches and perspectives](https://www.sciencedirect.com/science/article/pii/S0031320324005454)", Pattern Recognition, 156, 110794. doi:10.1016/j.patcog.2024.110794
   <br/><i>A survey of methods and datasets in dialogic emotion analysis based on natural language processing from 2017 to 2024</i>
@@ -180,6 +183,7 @@ A graphical representation of the circumplex model of affect with the horizontal
   * [X-Vectors](https://github.com/manojpamk/pytorch_xvectors?tab=readme-ov-file#pretrained-model)
   * [Xi-Vector](https://ieeexplore.ieee.org/document/10447414)
 * Visual
+  * [EmoFAN](https://github.com/face-analysis/emonet)
   * [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
   * [VGG-Face](https://github.com/rcmalli/keras-vggface)
 
