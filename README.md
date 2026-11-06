@@ -298,3 +298,6 @@ Various performance metrics can be used to evaluate a SER system, such as
   </tr>
 </table>
 
+### Speech Capture & Local AI Hardware
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with 5m dual-mic stereo capture, local AI transcription, speaker diarization (`Speaker ID`), and zero cloud subscription ([GitHub MCP](https://github.com/onemira-space/onemira-mcp)).
